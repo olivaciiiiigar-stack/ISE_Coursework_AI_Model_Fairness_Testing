@@ -1,0 +1,1561 @@
+Dataset,Method,Scenario,Sensitive_Features_Used,Run,IDI_Ratio,Time_Seconds
+ADULT,Random Search,Combined,"gender, race, age",1,0.45,61.690423011779785
+ADULT,Random Search,Combined,"gender, race, age",2,0.463,62.18783497810364
+ADULT,Random Search,Combined,"gender, race, age",3,0.438,61.65928292274475
+ADULT,Random Search,Combined,"gender, race, age",4,0.454,61.665688037872314
+ADULT,Random Search,Combined,"gender, race, age",5,0.474,61.65662717819214
+ADULT,Random Search,Combined,"gender, race, age",6,0.477,62.371286153793335
+ADULT,Random Search,Combined,"gender, race, age",7,0.434,61.978708028793335
+ADULT,Random Search,Combined,"gender, race, age",8,0.444,61.989306926727295
+ADULT,Random Search,Combined,"gender, race, age",9,0.484,62.656895875930786
+ADULT,Random Search,Combined,"gender, race, age",10,0.468,62.987321853637695
+ADULT,Random Search,Combined,"gender, race, age",11,0.454,62.63962697982788
+ADULT,Random Search,Combined,"gender, race, age",12,0.455,62.30856990814209
+ADULT,Random Search,Combined,"gender, race, age",13,0.469,62.66530799865723
+ADULT,Random Search,Combined,"gender, race, age",14,0.442,63.45694589614868
+ADULT,Random Search,Combined,"gender, race, age",15,0.491,62.872389793395996
+ADULT,Random Search,Combined,"gender, race, age",16,0.472,62.065715312957764
+ADULT,Random Search,Combined,"gender, race, age",17,0.458,63.19245004653931
+ADULT,Random Search,Combined,"gender, race, age",18,0.444,62.92197012901306
+ADULT,Random Search,Combined,"gender, race, age",19,0.458,65.73254895210266
+ADULT,Random Search,Combined,"gender, race, age",20,0.451,64.7739360332489
+ADULT,Random Search,Combined,"gender, race, age",21,0.418,63.170498847961426
+ADULT,Random Search,Combined,"gender, race, age",22,0.459,64.0488920211792
+ADULT,Random Search,Combined,"gender, race, age",23,0.464,62.68605995178223
+ADULT,Random Search,Combined,"gender, race, age",24,0.487,63.290714263916016
+ADULT,Random Search,Combined,"gender, race, age",25,0.438,63.21928882598877
+ADULT,Random Search,Combined,"gender, race, age",26,0.457,63.43257713317871
+ADULT,Random Search,Combined,"gender, race, age",27,0.447,65.51221990585327
+ADULT,Random Search,Combined,"gender, race, age",28,0.417,65.16008520126343
+ADULT,Random Search,Combined,"gender, race, age",29,0.455,65.18388772010803
+ADULT,Random Search,Combined,"gender, race, age",30,0.453,63.4792640209198
+ADULT,GA+Local Search,Combined,"gender, race, age",1,0.556,64.06038188934326
+ADULT,GA+Local Search,Combined,"gender, race, age",2,0.56,63.78621482849121
+ADULT,GA+Local Search,Combined,"gender, race, age",3,0.578,64.25768303871155
+ADULT,GA+Local Search,Combined,"gender, race, age",4,0.548,63.65955996513367
+ADULT,GA+Local Search,Combined,"gender, race, age",5,0.546,63.911120891571045
+ADULT,GA+Local Search,Combined,"gender, race, age",6,0.572,63.80516719818115
+ADULT,GA+Local Search,Combined,"gender, race, age",7,0.588,63.903714179992676
+ADULT,GA+Local Search,Combined,"gender, race, age",8,0.548,64.42782211303711
+ADULT,GA+Local Search,Combined,"gender, race, age",9,0.57,64.30485391616821
+ADULT,GA+Local Search,Combined,"gender, race, age",10,0.554,64.62684988975525
+ADULT,GA+Local Search,Combined,"gender, race, age",11,0.608,63.950912952423096
+ADULT,GA+Local Search,Combined,"gender, race, age",12,0.549,65.76207089424133
+ADULT,GA+Local Search,Combined,"gender, race, age",13,0.539,63.1361448764801
+ADULT,GA+Local Search,Combined,"gender, race, age",14,0.575,62.95832324028015
+ADULT,GA+Local Search,Combined,"gender, race, age",15,0.544,63.308260917663574
+ADULT,GA+Local Search,Combined,"gender, race, age",16,0.57,63.379119873046875
+ADULT,GA+Local Search,Combined,"gender, race, age",17,0.591,63.78422808647156
+ADULT,GA+Local Search,Combined,"gender, race, age",18,0.59,65.01025605201721
+ADULT,GA+Local Search,Combined,"gender, race, age",19,0.582,64.37981224060059
+ADULT,GA+Local Search,Combined,"gender, race, age",20,0.563,64.6963119506836
+ADULT,GA+Local Search,Combined,"gender, race, age",21,0.594,64.53978490829468
+ADULT,GA+Local Search,Combined,"gender, race, age",22,0.611,64.48022294044495
+ADULT,GA+Local Search,Combined,"gender, race, age",23,0.554,64.58972096443176
+ADULT,GA+Local Search,Combined,"gender, race, age",24,0.609,64.25092673301697
+ADULT,GA+Local Search,Combined,"gender, race, age",25,0.572,64.80600500106812
+ADULT,GA+Local Search,Combined,"gender, race, age",26,0.571,64.17952299118042
+ADULT,GA+Local Search,Combined,"gender, race, age",27,0.571,63.712056159973145
+ADULT,GA+Local Search,Combined,"gender, race, age",28,0.559,62.97858715057373
+ADULT,GA+Local Search,Combined,"gender, race, age",29,0.56,62.940078020095825
+ADULT,GA+Local Search,Combined,"gender, race, age",30,0.567,63.75846314430237
+ADULT,Random Search,Single,gender,1,0.11,66.5752100944519
+ADULT,Random Search,Single,gender,2,0.106,65.4734787940979
+ADULT,Random Search,Single,gender,3,0.105,64.54233193397522
+ADULT,Random Search,Single,gender,4,0.127,64.7396490573883
+ADULT,Random Search,Single,gender,5,0.098,66.77646732330322
+ADULT,Random Search,Single,gender,6,0.112,64.91564321517944
+ADULT,Random Search,Single,gender,7,0.097,64.8470892906189
+ADULT,Random Search,Single,gender,8,0.113,65.09133005142212
+ADULT,Random Search,Single,gender,9,0.107,65.60353088378906
+ADULT,Random Search,Single,gender,10,0.113,65.0950710773468
+ADULT,Random Search,Single,gender,11,0.114,65.25822901725769
+ADULT,Random Search,Single,gender,12,0.103,65.0501401424408
+ADULT,Random Search,Single,gender,13,0.122,65.4152021408081
+ADULT,Random Search,Single,gender,14,0.132,65.47708892822266
+ADULT,Random Search,Single,gender,15,0.121,65.09203290939331
+ADULT,Random Search,Single,gender,16,0.1,65.24817514419556
+ADULT,Random Search,Single,gender,17,0.101,64.72778296470642
+ADULT,Random Search,Single,gender,18,0.099,64.84340310096741
+ADULT,Random Search,Single,gender,19,0.103,64.9654278755188
+ADULT,Random Search,Single,gender,20,0.117,64.87511086463928
+ADULT,Random Search,Single,gender,21,0.128,65.15385699272156
+ADULT,Random Search,Single,gender,22,0.114,64.81893563270569
+ADULT,Random Search,Single,gender,23,0.121,64.82465100288391
+ADULT,Random Search,Single,gender,24,0.128,64.59784007072449
+ADULT,Random Search,Single,gender,25,0.121,64.67489409446716
+ADULT,Random Search,Single,gender,26,0.119,64.61195802688599
+ADULT,Random Search,Single,gender,27,0.108,64.46263718605042
+ADULT,Random Search,Single,gender,28,0.123,64.25182271003723
+ADULT,Random Search,Single,gender,29,0.121,65.12813210487366
+ADULT,Random Search,Single,gender,30,0.114,64.6999843120575
+ADULT,GA+Local Search,Single,gender,1,0.18,63.85450315475464
+ADULT,GA+Local Search,Single,gender,2,0.208,64.24621415138245
+ADULT,GA+Local Search,Single,gender,3,0.179,64.46999001502991
+ADULT,GA+Local Search,Single,gender,4,0.181,64.54640889167786
+ADULT,GA+Local Search,Single,gender,5,0.166,64.94129800796509
+ADULT,GA+Local Search,Single,gender,6,0.18,64.01607394218445
+ADULT,GA+Local Search,Single,gender,7,0.173,64.16813588142395
+ADULT,GA+Local Search,Single,gender,8,0.174,63.9781391620636
+ADULT,GA+Local Search,Single,gender,9,0.188,66.64091968536377
+ADULT,GA+Local Search,Single,gender,10,0.163,64.1091730594635
+ADULT,GA+Local Search,Single,gender,11,0.197,67.69687700271606
+ADULT,GA+Local Search,Single,gender,12,0.165,64.27504014968872
+ADULT,GA+Local Search,Single,gender,13,0.19,64.80351901054382
+ADULT,GA+Local Search,Single,gender,14,0.154,63.92975902557373
+ADULT,GA+Local Search,Single,gender,15,0.167,64.58419299125671
+ADULT,GA+Local Search,Single,gender,16,0.144,64.73553681373596
+ADULT,GA+Local Search,Single,gender,17,0.185,64.46394109725952
+ADULT,GA+Local Search,Single,gender,18,0.173,64.73700499534607
+ADULT,GA+Local Search,Single,gender,19,0.202,64.89743709564209
+ADULT,GA+Local Search,Single,gender,20,0.18,64.66924595832825
+ADULT,GA+Local Search,Single,gender,21,0.175,64.07765412330627
+ADULT,GA+Local Search,Single,gender,22,0.2,63.58534502983093
+ADULT,GA+Local Search,Single,gender,23,0.183,63.705804109573364
+ADULT,GA+Local Search,Single,gender,24,0.165,63.436445236206055
+ADULT,GA+Local Search,Single,gender,25,0.183,63.85032796859741
+ADULT,GA+Local Search,Single,gender,26,0.165,63.637311935424805
+ADULT,GA+Local Search,Single,gender,27,0.185,63.91906404495239
+ADULT,GA+Local Search,Single,gender,28,0.193,63.38394117355347
+ADULT,GA+Local Search,Single,gender,29,0.189,63.28075194358826
+ADULT,GA+Local Search,Single,gender,30,0.166,63.72647786140442
+ADULT,Random Search,Single,race,1,0.083,64.07741403579712
+ADULT,Random Search,Single,race,2,0.078,64.53452920913696
+ADULT,Random Search,Single,race,3,0.079,64.06193280220032
+ADULT,Random Search,Single,race,4,0.089,64.61556887626648
+ADULT,Random Search,Single,race,5,0.095,64.27685379981995
+ADULT,Random Search,Single,race,6,0.078,68.03303790092468
+ADULT,Random Search,Single,race,7,0.091,64.62268900871277
+ADULT,Random Search,Single,race,8,0.092,64.56281018257141
+ADULT,Random Search,Single,race,9,0.079,64.66032600402832
+ADULT,Random Search,Single,race,10,0.086,64.41563487052917
+ADULT,Random Search,Single,race,11,0.083,64.09503817558289
+ADULT,Random Search,Single,race,12,0.086,64.57572412490845
+ADULT,Random Search,Single,race,13,0.08,64.75132989883423
+ADULT,Random Search,Single,race,14,0.095,63.861019134521484
+ADULT,Random Search,Single,race,15,0.096,64.71944785118103
+ADULT,Random Search,Single,race,16,0.085,64.2128677368164
+ADULT,Random Search,Single,race,17,0.079,64.12904238700867
+ADULT,Random Search,Single,race,18,0.083,64.01918315887451
+ADULT,Random Search,Single,race,19,0.081,64.02032899856567
+ADULT,Random Search,Single,race,20,0.066,64.73948621749878
+ADULT,Random Search,Single,race,21,0.081,64.22547197341919
+ADULT,Random Search,Single,race,22,0.09,64.32217979431152
+ADULT,Random Search,Single,race,23,0.077,64.05732083320618
+ADULT,Random Search,Single,race,24,0.073,64.15207099914551
+ADULT,Random Search,Single,race,25,0.079,64.4392261505127
+ADULT,Random Search,Single,race,26,0.078,64.30289697647095
+ADULT,Random Search,Single,race,27,0.084,64.28251099586487
+ADULT,Random Search,Single,race,28,0.089,65.0871651172638
+ADULT,Random Search,Single,race,29,0.076,64.78968501091003
+ADULT,Random Search,Single,race,30,0.095,64.3318042755127
+ADULT,GA+Local Search,Single,race,1,0.195,64.1051287651062
+ADULT,GA+Local Search,Single,race,2,0.236,63.60790824890137
+ADULT,GA+Local Search,Single,race,3,0.171,63.40765738487244
+ADULT,GA+Local Search,Single,race,4,0.191,63.46641683578491
+ADULT,GA+Local Search,Single,race,5,0.168,63.66275405883789
+ADULT,GA+Local Search,Single,race,6,0.215,63.56689381599426
+ADULT,GA+Local Search,Single,race,7,0.213,63.765021085739136
+ADULT,GA+Local Search,Single,race,8,0.212,63.26945996284485
+ADULT,GA+Local Search,Single,race,9,0.196,63.796926975250244
+ADULT,GA+Local Search,Single,race,10,0.213,63.73216199874878
+ADULT,GA+Local Search,Single,race,11,0.218,64.0097267627716
+ADULT,GA+Local Search,Single,race,12,0.19,63.64851999282837
+ADULT,GA+Local Search,Single,race,13,0.214,64.06967091560364
+ADULT,GA+Local Search,Single,race,14,0.173,63.89838624000549
+ADULT,GA+Local Search,Single,race,15,0.222,64.0111072063446
+ADULT,GA+Local Search,Single,race,16,0.201,64.24743819236755
+ADULT,GA+Local Search,Single,race,17,0.222,63.68640613555908
+ADULT,GA+Local Search,Single,race,18,0.18,63.746379137039185
+ADULT,GA+Local Search,Single,race,19,0.221,63.91797113418579
+ADULT,GA+Local Search,Single,race,20,0.201,64.00290417671204
+ADULT,GA+Local Search,Single,race,21,0.23,64.02612113952637
+ADULT,GA+Local Search,Single,race,22,0.208,64.04523491859436
+ADULT,GA+Local Search,Single,race,23,0.203,63.69734787940979
+ADULT,GA+Local Search,Single,race,24,0.21,63.707695960998535
+ADULT,GA+Local Search,Single,race,25,0.211,63.79108476638794
+ADULT,GA+Local Search,Single,race,26,0.201,63.497251987457275
+ADULT,GA+Local Search,Single,race,27,0.19,63.81251502037048
+ADULT,GA+Local Search,Single,race,28,0.191,63.44528365135193
+ADULT,GA+Local Search,Single,race,29,0.211,63.91931915283203
+ADULT,GA+Local Search,Single,race,30,0.201,61.848491191864014
+ADULT,Random Search,Single,age,1,0.426,53.94381904602051
+ADULT,Random Search,Single,age,2,0.382,40.260189056396484
+ADULT,Random Search,Single,age,3,0.384,39.46914100646973
+ADULT,Random Search,Single,age,4,0.385,38.96761608123779
+ADULT,Random Search,Single,age,5,0.345,37.499359130859375
+ADULT,Random Search,Single,age,6,0.409,37.43210196495056
+ADULT,Random Search,Single,age,7,0.404,37.51377320289612
+ADULT,Random Search,Single,age,8,0.366,37.32121515274048
+ADULT,Random Search,Single,age,9,0.355,37.4982488155365
+ADULT,Random Search,Single,age,10,0.375,37.517486810684204
+ADULT,Random Search,Single,age,11,0.371,37.50665593147278
+ADULT,Random Search,Single,age,12,0.375,37.39562010765076
+ADULT,Random Search,Single,age,13,0.377,37.71897101402283
+ADULT,Random Search,Single,age,14,0.383,37.640002965927124
+ADULT,Random Search,Single,age,15,0.379,37.52177405357361
+ADULT,Random Search,Single,age,16,0.387,37.655041217803955
+ADULT,Random Search,Single,age,17,0.399,37.51953196525574
+ADULT,Random Search,Single,age,18,0.388,37.48234009742737
+ADULT,Random Search,Single,age,19,0.387,37.81665778160095
+ADULT,Random Search,Single,age,20,0.366,37.754316091537476
+ADULT,Random Search,Single,age,21,0.355,37.60737895965576
+ADULT,Random Search,Single,age,22,0.38,37.57631206512451
+ADULT,Random Search,Single,age,23,0.38,37.650294065475464
+ADULT,Random Search,Single,age,24,0.357,37.63542819023132
+ADULT,Random Search,Single,age,25,0.373,37.60865807533264
+ADULT,Random Search,Single,age,26,0.367,37.67288398742676
+ADULT,Random Search,Single,age,27,0.375,37.63434600830078
+ADULT,Random Search,Single,age,28,0.398,37.72820568084717
+ADULT,Random Search,Single,age,29,0.371,37.79771709442139
+ADULT,Random Search,Single,age,30,0.364,37.58967089653015
+ADULT,GA+Local Search,Single,age,1,0.496,37.40717005729675
+ADULT,GA+Local Search,Single,age,2,0.517,38.616578102111816
+ADULT,GA+Local Search,Single,age,3,0.536,38.435402631759644
+ADULT,GA+Local Search,Single,age,4,0.507,38.830474853515625
+ADULT,GA+Local Search,Single,age,5,0.52,38.260793924331665
+ADULT,GA+Local Search,Single,age,6,0.512,38.10954713821411
+ADULT,GA+Local Search,Single,age,7,0.49,37.186312198638916
+ADULT,GA+Local Search,Single,age,8,0.525,37.32351899147034
+ADULT,GA+Local Search,Single,age,9,0.509,37.27708888053894
+ADULT,GA+Local Search,Single,age,10,0.516,37.21028470993042
+ADULT,GA+Local Search,Single,age,11,0.491,37.487882137298584
+ADULT,GA+Local Search,Single,age,12,0.526,37.31522297859192
+ADULT,GA+Local Search,Single,age,13,0.544,37.6139190196991
+ADULT,GA+Local Search,Single,age,14,0.494,36.90276598930359
+ADULT,GA+Local Search,Single,age,15,0.542,37.56073212623596
+ADULT,GA+Local Search,Single,age,16,0.518,37.08579206466675
+ADULT,GA+Local Search,Single,age,17,0.54,37.325387716293335
+ADULT,GA+Local Search,Single,age,18,0.531,37.20198178291321
+ADULT,GA+Local Search,Single,age,19,0.515,37.443604946136475
+ADULT,GA+Local Search,Single,age,20,0.499,37.55185294151306
+ADULT,GA+Local Search,Single,age,21,0.516,37.214186906814575
+ADULT,GA+Local Search,Single,age,22,0.486,37.613816022872925
+ADULT,GA+Local Search,Single,age,23,0.522,37.081866979599
+ADULT,GA+Local Search,Single,age,24,0.554,37.60750389099121
+ADULT,GA+Local Search,Single,age,25,0.528,37.2297089099884
+ADULT,GA+Local Search,Single,age,26,0.519,37.55124497413635
+ADULT,GA+Local Search,Single,age,27,0.521,37.26911473274231
+ADULT,GA+Local Search,Single,age,28,0.507,37.52115297317505
+ADULT,GA+Local Search,Single,age,29,0.521,37.50252628326416
+ADULT,GA+Local Search,Single,age,30,0.523,37.20925688743591
+COMPAS,Random Search,Combined,"Sex, Race",1,0.06,61.45058798789978
+COMPAS,Random Search,Combined,"Sex, Race",2,0.051,62.5060601234436
+COMPAS,Random Search,Combined,"Sex, Race",3,0.055,61.8762640953064
+COMPAS,Random Search,Combined,"Sex, Race",4,0.062,61.552494764328
+COMPAS,Random Search,Combined,"Sex, Race",5,0.049,61.60345911979675
+COMPAS,Random Search,Combined,"Sex, Race",6,0.061,61.84554386138916
+COMPAS,Random Search,Combined,"Sex, Race",7,0.063,61.47025275230408
+COMPAS,Random Search,Combined,"Sex, Race",8,0.057,61.47074508666992
+COMPAS,Random Search,Combined,"Sex, Race",9,0.046,62.39613699913025
+COMPAS,Random Search,Combined,"Sex, Race",10,0.064,62.393324851989746
+COMPAS,Random Search,Combined,"Sex, Race",11,0.05,62.555505990982056
+COMPAS,Random Search,Combined,"Sex, Race",12,0.056,62.59353685379028
+COMPAS,Random Search,Combined,"Sex, Race",13,0.055,63.07987093925476
+COMPAS,Random Search,Combined,"Sex, Race",14,0.067,63.525898933410645
+COMPAS,Random Search,Combined,"Sex, Race",15,0.065,62.877443075180054
+COMPAS,Random Search,Combined,"Sex, Race",16,0.068,62.76452088356018
+COMPAS,Random Search,Combined,"Sex, Race",17,0.065,63.29271483421326
+COMPAS,Random Search,Combined,"Sex, Race",18,0.069,62.94600296020508
+COMPAS,Random Search,Combined,"Sex, Race",19,0.064,66.26339268684387
+COMPAS,Random Search,Combined,"Sex, Race",20,0.063,64.51126503944397
+COMPAS,Random Search,Combined,"Sex, Race",21,0.072,63.11274600028992
+COMPAS,Random Search,Combined,"Sex, Race",22,0.059,64.2176399230957
+COMPAS,Random Search,Combined,"Sex, Race",23,0.045,63.18781614303589
+COMPAS,Random Search,Combined,"Sex, Race",24,0.056,63.305659770965576
+COMPAS,Random Search,Combined,"Sex, Race",25,0.071,63.13399600982666
+COMPAS,Random Search,Combined,"Sex, Race",26,0.059,63.469870805740356
+COMPAS,Random Search,Combined,"Sex, Race",27,0.063,65.48914909362793
+COMPAS,Random Search,Combined,"Sex, Race",28,0.049,64.90084290504456
+COMPAS,Random Search,Combined,"Sex, Race",29,0.054,65.75062131881714
+COMPAS,Random Search,Combined,"Sex, Race",30,0.066,64.52782392501831
+COMPAS,GA+Local Search,Combined,"Sex, Race",1,0.18,64.40812110900879
+COMPAS,GA+Local Search,Combined,"Sex, Race",2,0.148,63.8581759929657
+COMPAS,GA+Local Search,Combined,"Sex, Race",3,0.144,63.92770791053772
+COMPAS,GA+Local Search,Combined,"Sex, Race",4,0.174,64.07070589065552
+COMPAS,GA+Local Search,Combined,"Sex, Race",5,0.142,64.53098702430725
+COMPAS,GA+Local Search,Combined,"Sex, Race",6,0.146,64.01182794570923
+COMPAS,GA+Local Search,Combined,"Sex, Race",7,0.154,63.546181201934814
+COMPAS,GA+Local Search,Combined,"Sex, Race",8,0.156,64.33755397796631
+COMPAS,GA+Local Search,Combined,"Sex, Race",9,0.157,63.997957944869995
+COMPAS,GA+Local Search,Combined,"Sex, Race",10,0.167,64.51653409004211
+COMPAS,GA+Local Search,Combined,"Sex, Race",11,0.181,63.662312269210815
+COMPAS,GA+Local Search,Combined,"Sex, Race",12,0.132,66.21547389030457
+COMPAS,GA+Local Search,Combined,"Sex, Race",13,0.163,62.96191096305847
+COMPAS,GA+Local Search,Combined,"Sex, Race",14,0.14,62.953861951828
+COMPAS,GA+Local Search,Combined,"Sex, Race",15,0.152,63.23138999938965
+COMPAS,GA+Local Search,Combined,"Sex, Race",16,0.175,62.8967170715332
+COMPAS,GA+Local Search,Combined,"Sex, Race",17,0.126,63.47252702713013
+COMPAS,GA+Local Search,Combined,"Sex, Race",18,0.138,64.04893803596497
+COMPAS,GA+Local Search,Combined,"Sex, Race",19,0.185,65.08717703819275
+COMPAS,GA+Local Search,Combined,"Sex, Race",20,0.163,64.04672312736511
+COMPAS,GA+Local Search,Combined,"Sex, Race",21,0.141,64.11374068260193
+COMPAS,GA+Local Search,Combined,"Sex, Race",22,0.148,64.00491380691528
+COMPAS,GA+Local Search,Combined,"Sex, Race",23,0.175,64.32839393615723
+COMPAS,GA+Local Search,Combined,"Sex, Race",24,0.187,64.65064406394958
+COMPAS,GA+Local Search,Combined,"Sex, Race",25,0.117,64.16627407073975
+COMPAS,GA+Local Search,Combined,"Sex, Race",26,0.136,64.70551800727844
+COMPAS,GA+Local Search,Combined,"Sex, Race",27,0.203,63.11381793022156
+COMPAS,GA+Local Search,Combined,"Sex, Race",28,0.177,63.16936802864075
+COMPAS,GA+Local Search,Combined,"Sex, Race",29,0.131,63.18542814254761
+COMPAS,GA+Local Search,Combined,"Sex, Race",30,0.182,62.94082307815552
+COMPAS,Random Search,Single,Sex,1,0.014,65.87791895866394
+COMPAS,Random Search,Single,Sex,2,0.019,65.52783584594727
+COMPAS,Random Search,Single,Sex,3,0.009,64.4948000907898
+COMPAS,Random Search,Single,Sex,4,0.012,64.89379477500916
+COMPAS,Random Search,Single,Sex,5,0.015,66.37948703765869
+COMPAS,Random Search,Single,Sex,6,0.014,64.97314095497131
+COMPAS,Random Search,Single,Sex,7,0.01,65.20301914215088
+COMPAS,Random Search,Single,Sex,8,0.011,65.34672403335571
+COMPAS,Random Search,Single,Sex,9,0.02,65.23266983032227
+COMPAS,Random Search,Single,Sex,10,0.015,65.08239507675171
+COMPAS,Random Search,Single,Sex,11,0.012,64.63138699531555
+COMPAS,Random Search,Single,Sex,12,0.018,65.3144702911377
+COMPAS,Random Search,Single,Sex,13,0.013,65.22417211532593
+COMPAS,Random Search,Single,Sex,14,0.016,65.35377407073975
+COMPAS,Random Search,Single,Sex,15,0.015,65.10727405548096
+COMPAS,Random Search,Single,Sex,16,0.01,64.99446511268616
+COMPAS,Random Search,Single,Sex,17,0.006,64.45686888694763
+COMPAS,Random Search,Single,Sex,18,0.019,64.95710492134094
+COMPAS,Random Search,Single,Sex,19,0.011,64.90600800514221
+COMPAS,Random Search,Single,Sex,20,0.009,65.2472288608551
+COMPAS,Random Search,Single,Sex,21,0.013,64.82601928710938
+COMPAS,Random Search,Single,Sex,22,0.015,65.41795301437378
+COMPAS,Random Search,Single,Sex,23,0.017,65.4495689868927
+COMPAS,Random Search,Single,Sex,24,0.012,64.89593815803528
+COMPAS,Random Search,Single,Sex,25,0.016,65.10164284706116
+COMPAS,Random Search,Single,Sex,26,0.012,65.15219616889954
+COMPAS,Random Search,Single,Sex,27,0.01,64.76324677467346
+COMPAS,Random Search,Single,Sex,28,0.011,64.66567397117615
+COMPAS,Random Search,Single,Sex,29,0.009,64.92520403862
+COMPAS,Random Search,Single,Sex,30,0.013,64.98747181892395
+COMPAS,GA+Local Search,Single,Sex,1,0.086,64.47200417518616
+COMPAS,GA+Local Search,Single,Sex,2,0.059,64.39669513702393
+COMPAS,GA+Local Search,Single,Sex,3,0.078,64.7869827747345
+COMPAS,GA+Local Search,Single,Sex,4,0.085,64.83630013465881
+COMPAS,GA+Local Search,Single,Sex,5,0.089,64.85974216461182
+COMPAS,GA+Local Search,Single,Sex,6,0.081,64.349689245224
+COMPAS,GA+Local Search,Single,Sex,7,0.087,64.30253481864929
+COMPAS,GA+Local Search,Single,Sex,8,0.08,63.92691707611084
+COMPAS,GA+Local Search,Single,Sex,9,0.055,67.27922821044922
+COMPAS,GA+Local Search,Single,Sex,10,0.08,63.99366116523743
+COMPAS,GA+Local Search,Single,Sex,11,0.04,67.26878118515015
+COMPAS,GA+Local Search,Single,Sex,12,0.032,64.0634548664093
+COMPAS,GA+Local Search,Single,Sex,13,0.088,64.94552898406982
+COMPAS,GA+Local Search,Single,Sex,14,0.075,64.31076765060425
+COMPAS,GA+Local Search,Single,Sex,15,0.086,64.32611298561096
+COMPAS,GA+Local Search,Single,Sex,16,0.063,64.69762706756592
+COMPAS,GA+Local Search,Single,Sex,17,0.076,64.70451784133911
+COMPAS,GA+Local Search,Single,Sex,18,0.108,64.84343123435974
+COMPAS,GA+Local Search,Single,Sex,19,0.083,64.68745017051697
+COMPAS,GA+Local Search,Single,Sex,20,0.07,64.74329972267151
+COMPAS,GA+Local Search,Single,Sex,21,0.039,63.810851097106934
+COMPAS,GA+Local Search,Single,Sex,22,0.053,63.103703022003174
+COMPAS,GA+Local Search,Single,Sex,23,0.068,64.03546404838562
+COMPAS,GA+Local Search,Single,Sex,24,0.043,63.35499024391174
+COMPAS,GA+Local Search,Single,Sex,25,0.088,63.72037315368652
+COMPAS,GA+Local Search,Single,Sex,26,0.069,63.168192863464355
+COMPAS,GA+Local Search,Single,Sex,27,0.063,63.53447771072388
+COMPAS,GA+Local Search,Single,Sex,28,0.051,64.05290818214417
+COMPAS,GA+Local Search,Single,Sex,29,0.095,63.5185751914978
+COMPAS,GA+Local Search,Single,Sex,30,0.094,63.72869610786438
+COMPAS,Random Search,Single,Race,1,0.029,64.4215338230133
+COMPAS,Random Search,Single,Race,2,0.028,64.23723292350769
+COMPAS,Random Search,Single,Race,3,0.032,64.94312500953674
+COMPAS,Random Search,Single,Race,4,0.013,64.4446759223938
+COMPAS,Random Search,Single,Race,5,0.026,64.78390502929688
+COMPAS,Random Search,Single,Race,6,0.021,68.27680802345276
+COMPAS,Random Search,Single,Race,7,0.025,64.52394795417786
+COMPAS,Random Search,Single,Race,8,0.024,64.25677800178528
+COMPAS,Random Search,Single,Race,9,0.018,64.62021112442017
+COMPAS,Random Search,Single,Race,10,0.025,64.51296615600586
+COMPAS,Random Search,Single,Race,11,0.018,64.29556584358215
+COMPAS,Random Search,Single,Race,12,0.019,64.2839949131012
+COMPAS,Random Search,Single,Race,13,0.018,64.82309198379517
+COMPAS,Random Search,Single,Race,14,0.022,64.43345999717712
+COMPAS,Random Search,Single,Race,15,0.023,64.22472286224365
+COMPAS,Random Search,Single,Race,16,0.018,64.11141109466553
+COMPAS,Random Search,Single,Race,17,0.023,64.14128422737122
+COMPAS,Random Search,Single,Race,18,0.017,64.17399621009827
+COMPAS,Random Search,Single,Race,19,0.027,64.40070581436157
+COMPAS,Random Search,Single,Race,20,0.021,64.41235089302063
+COMPAS,Random Search,Single,Race,21,0.026,64.39943504333496
+COMPAS,Random Search,Single,Race,22,0.021,64.16199684143066
+COMPAS,Random Search,Single,Race,23,0.027,64.47378301620483
+COMPAS,Random Search,Single,Race,24,0.038,64.61385917663574
+COMPAS,Random Search,Single,Race,25,0.018,64.35342788696289
+COMPAS,Random Search,Single,Race,26,0.024,64.48357224464417
+COMPAS,Random Search,Single,Race,27,0.024,64.09858202934265
+COMPAS,Random Search,Single,Race,28,0.019,65.2532217502594
+COMPAS,Random Search,Single,Race,29,0.029,64.50698971748352
+COMPAS,Random Search,Single,Race,30,0.027,64.30385684967041
+COMPAS,GA+Local Search,Single,Race,1,0.111,63.17663908004761
+COMPAS,GA+Local Search,Single,Race,2,0.095,63.560940980911255
+COMPAS,GA+Local Search,Single,Race,3,0.103,63.60518193244934
+COMPAS,GA+Local Search,Single,Race,4,0.083,63.86052203178406
+COMPAS,GA+Local Search,Single,Race,5,0.1,63.35389590263367
+COMPAS,GA+Local Search,Single,Race,6,0.08,63.96069407463074
+COMPAS,GA+Local Search,Single,Race,7,0.081,63.085886001586914
+COMPAS,GA+Local Search,Single,Race,8,0.092,63.29226112365723
+COMPAS,GA+Local Search,Single,Race,9,0.121,63.61765098571777
+COMPAS,GA+Local Search,Single,Race,10,0.067,63.31730103492737
+COMPAS,GA+Local Search,Single,Race,11,0.099,64.00993299484253
+COMPAS,GA+Local Search,Single,Race,12,0.062,63.31106185913086
+COMPAS,GA+Local Search,Single,Race,13,0.092,63.67861890792847
+COMPAS,GA+Local Search,Single,Race,14,0.075,63.66805076599121
+COMPAS,GA+Local Search,Single,Race,15,0.098,64.2123761177063
+COMPAS,GA+Local Search,Single,Race,16,0.08,63.72743511199951
+COMPAS,GA+Local Search,Single,Race,17,0.094,64.18508815765381
+COMPAS,GA+Local Search,Single,Race,18,0.099,63.75865077972412
+COMPAS,GA+Local Search,Single,Race,19,0.083,63.557279109954834
+COMPAS,GA+Local Search,Single,Race,20,0.073,64.14043116569519
+COMPAS,GA+Local Search,Single,Race,21,0.109,63.963095903396606
+COMPAS,GA+Local Search,Single,Race,22,0.054,64.25806522369385
+COMPAS,GA+Local Search,Single,Race,23,0.096,63.862329721450806
+COMPAS,GA+Local Search,Single,Race,24,0.067,63.77830410003662
+COMPAS,GA+Local Search,Single,Race,25,0.058,63.533955097198486
+COMPAS,GA+Local Search,Single,Race,26,0.065,63.756407022476196
+COMPAS,GA+Local Search,Single,Race,27,0.081,63.75770378112793
+COMPAS,GA+Local Search,Single,Race,28,0.121,63.82229208946228
+COMPAS,GA+Local Search,Single,Race,29,0.085,63.92120909690857
+COMPAS,GA+Local Search,Single,Race,30,0.078,62.39689302444458
+LAW SCHOOL,Random Search,Combined,"male, race",1,0.0,61.8347430229187
+LAW SCHOOL,Random Search,Combined,"male, race",2,0.0,62.45743489265442
+LAW SCHOOL,Random Search,Combined,"male, race",3,0.0,61.46100211143494
+LAW SCHOOL,Random Search,Combined,"male, race",4,0.0,62.12525796890259
+LAW SCHOOL,Random Search,Combined,"male, race",5,0.001,61.55375409126282
+LAW SCHOOL,Random Search,Combined,"male, race",6,0.0,62.76061201095581
+LAW SCHOOL,Random Search,Combined,"male, race",7,0.0,62.21575212478638
+LAW SCHOOL,Random Search,Combined,"male, race",8,0.0,62.175079107284546
+LAW SCHOOL,Random Search,Combined,"male, race",9,0.0,62.534461975097656
+LAW SCHOOL,Random Search,Combined,"male, race",10,0.001,62.85883688926697
+LAW SCHOOL,Random Search,Combined,"male, race",11,0.0,63.08206605911255
+LAW SCHOOL,Random Search,Combined,"male, race",12,0.0,63.47975301742554
+LAW SCHOOL,Random Search,Combined,"male, race",13,0.0,62.92085886001587
+LAW SCHOOL,Random Search,Combined,"male, race",14,0.0,63.79072690010071
+LAW SCHOOL,Random Search,Combined,"male, race",15,0.0,62.68155908584595
+LAW SCHOOL,Random Search,Combined,"male, race",16,0.0,62.8248291015625
+LAW SCHOOL,Random Search,Combined,"male, race",17,0.0,63.61110711097717
+LAW SCHOOL,Random Search,Combined,"male, race",18,0.0,63.217467069625854
+LAW SCHOOL,Random Search,Combined,"male, race",19,0.001,66.72105288505554
+LAW SCHOOL,Random Search,Combined,"male, race",20,0.0,64.07833409309387
+LAW SCHOOL,Random Search,Combined,"male, race",21,0.0,63.9352490901947
+LAW SCHOOL,Random Search,Combined,"male, race",22,0.0,64.03804588317871
+LAW SCHOOL,Random Search,Combined,"male, race",23,0.0,63.72080111503601
+LAW SCHOOL,Random Search,Combined,"male, race",24,0.0,63.80076193809509
+LAW SCHOOL,Random Search,Combined,"male, race",25,0.0,63.563722133636475
+LAW SCHOOL,Random Search,Combined,"male, race",26,0.0,64.6307270526886
+LAW SCHOOL,Random Search,Combined,"male, race",27,0.001,65.70286703109741
+LAW SCHOOL,Random Search,Combined,"male, race",28,0.001,65.16981482505798
+LAW SCHOOL,Random Search,Combined,"male, race",29,0.0,65.58756589889526
+LAW SCHOOL,Random Search,Combined,"male, race",30,0.0,64.52561902999878
+LAW SCHOOL,GA+Local Search,Combined,"male, race",1,0.0,64.07191014289856
+LAW SCHOOL,GA+Local Search,Combined,"male, race",2,0.0,64.04249382019043
+LAW SCHOOL,GA+Local Search,Combined,"male, race",3,0.0,64.52014708518982
+LAW SCHOOL,GA+Local Search,Combined,"male, race",4,0.0,64.41392993927002
+LAW SCHOOL,GA+Local Search,Combined,"male, race",5,0.001,64.40947985649109
+LAW SCHOOL,GA+Local Search,Combined,"male, race",6,0.0,64.41803693771362
+LAW SCHOOL,GA+Local Search,Combined,"male, race",7,0.0,64.35932183265686
+LAW SCHOOL,GA+Local Search,Combined,"male, race",8,0.0,65.34694623947144
+LAW SCHOOL,GA+Local Search,Combined,"male, race",9,0.001,64.64067912101746
+LAW SCHOOL,GA+Local Search,Combined,"male, race",10,0.146,65.07166814804077
+LAW SCHOOL,GA+Local Search,Combined,"male, race",11,0.0,64.90252876281738
+LAW SCHOOL,GA+Local Search,Combined,"male, race",12,0.0,65.92322373390198
+LAW SCHOOL,GA+Local Search,Combined,"male, race",13,0.0,63.577179193496704
+LAW SCHOOL,GA+Local Search,Combined,"male, race",14,0.0,63.66400170326233
+LAW SCHOOL,GA+Local Search,Combined,"male, race",15,0.0,63.4571430683136
+LAW SCHOOL,GA+Local Search,Combined,"male, race",16,0.0,63.768391847610474
+LAW SCHOOL,GA+Local Search,Combined,"male, race",17,0.115,63.23988604545593
+LAW SCHOOL,GA+Local Search,Combined,"male, race",18,0.0,65.0569679737091
+LAW SCHOOL,GA+Local Search,Combined,"male, race",19,0.0,65.13156294822693
+LAW SCHOOL,GA+Local Search,Combined,"male, race",20,0.0,64.93524408340454
+LAW SCHOOL,GA+Local Search,Combined,"male, race",21,0.0,64.55903601646423
+LAW SCHOOL,GA+Local Search,Combined,"male, race",22,0.0,64.66816997528076
+LAW SCHOOL,GA+Local Search,Combined,"male, race",23,0.0,65.25858306884766
+LAW SCHOOL,GA+Local Search,Combined,"male, race",24,0.0,64.83541584014893
+LAW SCHOOL,GA+Local Search,Combined,"male, race",25,0.001,64.86657381057739
+LAW SCHOOL,GA+Local Search,Combined,"male, race",26,0.0,64.24971294403076
+LAW SCHOOL,GA+Local Search,Combined,"male, race",27,0.142,64.03839492797852
+LAW SCHOOL,GA+Local Search,Combined,"male, race",28,0.084,63.95760917663574
+LAW SCHOOL,GA+Local Search,Combined,"male, race",29,0.0,63.3541522026062
+LAW SCHOOL,GA+Local Search,Combined,"male, race",30,0.0,63.70371890068054
+LAW SCHOOL,Random Search,Single,male,1,0.0,68.04836678504944
+LAW SCHOOL,Random Search,Single,male,2,0.0,65.20321893692017
+LAW SCHOOL,Random Search,Single,male,3,0.0,65.40332412719727
+LAW SCHOOL,Random Search,Single,male,4,0.0,65.68928599357605
+LAW SCHOOL,Random Search,Single,male,5,0.0,66.32155799865723
+LAW SCHOOL,Random Search,Single,male,6,0.0,65.17257976531982
+LAW SCHOOL,Random Search,Single,male,7,0.0,65.4250111579895
+LAW SCHOOL,Random Search,Single,male,8,0.0,65.23723793029785
+LAW SCHOOL,Random Search,Single,male,9,0.0,65.3291368484497
+LAW SCHOOL,Random Search,Single,male,10,0.0,65.04731893539429
+LAW SCHOOL,Random Search,Single,male,11,0.0,65.48236274719238
+LAW SCHOOL,Random Search,Single,male,12,0.0,65.67081379890442
+LAW SCHOOL,Random Search,Single,male,13,0.0,65.65318489074707
+LAW SCHOOL,Random Search,Single,male,14,0.0,66.31595802307129
+LAW SCHOOL,Random Search,Single,male,15,0.0,65.75901794433594
+LAW SCHOOL,Random Search,Single,male,16,0.0,65.45101308822632
+LAW SCHOOL,Random Search,Single,male,17,0.0,65.58373689651489
+LAW SCHOOL,Random Search,Single,male,18,0.0,65.32426071166992
+LAW SCHOOL,Random Search,Single,male,19,0.0,65.20553994178772
+LAW SCHOOL,Random Search,Single,male,20,0.0,65.525710105896
+LAW SCHOOL,Random Search,Single,male,21,0.0,64.72134232521057
+LAW SCHOOL,Random Search,Single,male,22,0.0,65.28924489021301
+LAW SCHOOL,Random Search,Single,male,23,0.0,65.12531208992004
+LAW SCHOOL,Random Search,Single,male,24,0.0,64.7918930053711
+LAW SCHOOL,Random Search,Single,male,25,0.0,65.18459486961365
+LAW SCHOOL,Random Search,Single,male,26,0.0,65.43091082572937
+LAW SCHOOL,Random Search,Single,male,27,0.0,65.67675280570984
+LAW SCHOOL,Random Search,Single,male,28,0.0,65.95093202590942
+LAW SCHOOL,Random Search,Single,male,29,0.0,65.70286297798157
+LAW SCHOOL,Random Search,Single,male,30,0.0,65.23469424247742
+LAW SCHOOL,GA+Local Search,Single,male,1,0.0,65.4077410697937
+LAW SCHOOL,GA+Local Search,Single,male,2,0.0,64.97818398475647
+LAW SCHOOL,GA+Local Search,Single,male,3,0.0,64.8178277015686
+LAW SCHOOL,GA+Local Search,Single,male,4,0.0,66.13280296325684
+LAW SCHOOL,GA+Local Search,Single,male,5,0.0,64.7706458568573
+LAW SCHOOL,GA+Local Search,Single,male,6,0.0,64.91149592399597
+LAW SCHOOL,GA+Local Search,Single,male,7,0.0,64.89230799674988
+LAW SCHOOL,GA+Local Search,Single,male,8,0.0,66.23303484916687
+LAW SCHOOL,GA+Local Search,Single,male,9,0.0,66.07302594184875
+LAW SCHOOL,GA+Local Search,Single,male,10,0.0,67.97089195251465
+LAW SCHOOL,GA+Local Search,Single,male,11,0.0,65.28766393661499
+LAW SCHOOL,GA+Local Search,Single,male,12,0.0,65.61508679389954
+LAW SCHOOL,GA+Local Search,Single,male,13,0.0,65.58469867706299
+LAW SCHOOL,GA+Local Search,Single,male,14,0.0,64.91628503799438
+LAW SCHOOL,GA+Local Search,Single,male,15,0.0,65.10170388221741
+LAW SCHOOL,GA+Local Search,Single,male,16,0.0,65.40769815444946
+LAW SCHOOL,GA+Local Search,Single,male,17,0.0,65.06755590438843
+LAW SCHOOL,GA+Local Search,Single,male,18,0.0,65.00659990310669
+LAW SCHOOL,GA+Local Search,Single,male,19,0.0,65.5416898727417
+LAW SCHOOL,GA+Local Search,Single,male,20,0.0,64.682697057724
+LAW SCHOOL,GA+Local Search,Single,male,21,0.0,64.03755211830139
+LAW SCHOOL,GA+Local Search,Single,male,22,0.0,64.01270508766174
+LAW SCHOOL,GA+Local Search,Single,male,23,0.0,64.19551682472229
+LAW SCHOOL,GA+Local Search,Single,male,24,0.0,64.16994833946228
+LAW SCHOOL,GA+Local Search,Single,male,25,0.0,64.06695199012756
+LAW SCHOOL,GA+Local Search,Single,male,26,0.0,63.61965537071228
+LAW SCHOOL,GA+Local Search,Single,male,27,0.0,63.629417181015015
+LAW SCHOOL,GA+Local Search,Single,male,28,0.0,64.07200217247009
+LAW SCHOOL,GA+Local Search,Single,male,29,0.0,63.88793992996216
+LAW SCHOOL,GA+Local Search,Single,male,30,0.0,64.19874501228333
+LAW SCHOOL,Random Search,Single,race,1,0.0,64.65177083015442
+LAW SCHOOL,Random Search,Single,race,2,0.0,64.60556697845459
+LAW SCHOOL,Random Search,Single,race,3,0.0,64.94444704055786
+LAW SCHOOL,Random Search,Single,race,4,0.001,64.68184494972229
+LAW SCHOOL,Random Search,Single,race,5,0.0,68.206289768219
+LAW SCHOOL,Random Search,Single,race,6,0.0,64.7687120437622
+LAW SCHOOL,Random Search,Single,race,7,0.001,64.38862490653992
+LAW SCHOOL,Random Search,Single,race,8,0.0,64.46667122840881
+LAW SCHOOL,Random Search,Single,race,9,0.0,65.05730414390564
+LAW SCHOOL,Random Search,Single,race,10,0.0,64.86694097518921
+LAW SCHOOL,Random Search,Single,race,11,0.0,65.3409788608551
+LAW SCHOOL,Random Search,Single,race,12,0.0,65.34396982192993
+LAW SCHOOL,Random Search,Single,race,13,0.001,65.0420150756836
+LAW SCHOOL,Random Search,Single,race,14,0.0,64.91072297096252
+LAW SCHOOL,Random Search,Single,race,15,0.0,64.72327208518982
+LAW SCHOOL,Random Search,Single,race,16,0.0,64.54895901679993
+LAW SCHOOL,Random Search,Single,race,17,0.0,64.6888439655304
+LAW SCHOOL,Random Search,Single,race,18,0.0,64.97763895988464
+LAW SCHOOL,Random Search,Single,race,19,0.0,64.83127093315125
+LAW SCHOOL,Random Search,Single,race,20,0.0,65.13409614562988
+LAW SCHOOL,Random Search,Single,race,21,0.0,64.92643189430237
+LAW SCHOOL,Random Search,Single,race,22,0.0,65.04627513885498
+LAW SCHOOL,Random Search,Single,race,23,0.0,65.11296486854553
+LAW SCHOOL,Random Search,Single,race,24,0.0,64.66366577148438
+LAW SCHOOL,Random Search,Single,race,25,0.0,64.9195408821106
+LAW SCHOOL,Random Search,Single,race,26,0.0,65.07615089416504
+LAW SCHOOL,Random Search,Single,race,27,0.0,66.08667707443237
+LAW SCHOOL,Random Search,Single,race,28,0.0,65.26594996452332
+LAW SCHOOL,Random Search,Single,race,29,0.0,64.5478208065033
+LAW SCHOOL,Random Search,Single,race,30,0.0,65.20739984512329
+LAW SCHOOL,GA+Local Search,Single,race,1,0.0,64.52579402923584
+LAW SCHOOL,GA+Local Search,Single,race,2,0.129,64.26198196411133
+LAW SCHOOL,GA+Local Search,Single,race,3,0.0,63.9855580329895
+LAW SCHOOL,GA+Local Search,Single,race,4,0.0,64.15376496315002
+LAW SCHOOL,GA+Local Search,Single,race,5,0.0,64.05953788757324
+LAW SCHOOL,GA+Local Search,Single,race,6,0.102,63.67841076850891
+LAW SCHOOL,GA+Local Search,Single,race,7,0.0,64.2394790649414
+LAW SCHOOL,GA+Local Search,Single,race,8,0.0,63.91414213180542
+LAW SCHOOL,GA+Local Search,Single,race,9,0.0,64.38913321495056
+LAW SCHOOL,GA+Local Search,Single,race,10,0.0,64.06463289260864
+LAW SCHOOL,GA+Local Search,Single,race,11,0.0,64.28877806663513
+LAW SCHOOL,GA+Local Search,Single,race,12,0.0,64.48169612884521
+LAW SCHOOL,GA+Local Search,Single,race,13,0.097,64.04855108261108
+LAW SCHOOL,GA+Local Search,Single,race,14,0.0,64.16446590423584
+LAW SCHOOL,GA+Local Search,Single,race,15,0.0,64.30102181434631
+LAW SCHOOL,GA+Local Search,Single,race,16,0.0,63.93767309188843
+LAW SCHOOL,GA+Local Search,Single,race,17,0.0,64.11902284622192
+LAW SCHOOL,GA+Local Search,Single,race,18,0.0,64.71055626869202
+LAW SCHOOL,GA+Local Search,Single,race,19,0.0,64.70834708213806
+LAW SCHOOL,GA+Local Search,Single,race,20,0.0,64.2679181098938
+LAW SCHOOL,GA+Local Search,Single,race,21,0.0,64.43535280227661
+LAW SCHOOL,GA+Local Search,Single,race,22,0.0,64.35507106781006
+LAW SCHOOL,GA+Local Search,Single,race,23,0.0,64.49149513244629
+LAW SCHOOL,GA+Local Search,Single,race,24,0.0,64.5994188785553
+LAW SCHOOL,GA+Local Search,Single,race,25,0.0,64.29542231559753
+LAW SCHOOL,GA+Local Search,Single,race,26,0.0,64.52988004684448
+LAW SCHOOL,GA+Local Search,Single,race,27,0.0,64.25726509094238
+LAW SCHOOL,GA+Local Search,Single,race,28,0.0,64.3985059261322
+LAW SCHOOL,GA+Local Search,Single,race,29,0.0,59.75336503982544
+LAW SCHOOL,GA+Local Search,Single,race,30,0.0,50.09007215499878
+KDD,Random Search,Combined,"sex, race",1,0.038,63.890552043914795
+KDD,Random Search,Combined,"sex, race",2,0.041,64.05919694900513
+KDD,Random Search,Combined,"sex, race",3,0.041,63.69869112968445
+KDD,Random Search,Combined,"sex, race",4,0.035,63.69067978858948
+KDD,Random Search,Combined,"sex, race",5,0.031,63.712668895721436
+KDD,Random Search,Combined,"sex, race",6,0.039,63.742717027664185
+KDD,Random Search,Combined,"sex, race",7,0.036,64.18659210205078
+KDD,Random Search,Combined,"sex, race",8,0.028,63.82037091255188
+KDD,Random Search,Combined,"sex, race",9,0.035,65.056156873703
+KDD,Random Search,Combined,"sex, race",10,0.036,65.08804988861084
+KDD,Random Search,Combined,"sex, race",11,0.034,65.13000082969666
+KDD,Random Search,Combined,"sex, race",12,0.035,65.50389003753662
+KDD,Random Search,Combined,"sex, race",13,0.035,64.8321840763092
+KDD,Random Search,Combined,"sex, race",14,0.028,65.56706428527832
+KDD,Random Search,Combined,"sex, race",15,0.038,64.68586683273315
+KDD,Random Search,Combined,"sex, race",16,0.037,65.52248096466064
+KDD,Random Search,Combined,"sex, race",17,0.028,65.41769695281982
+KDD,Random Search,Combined,"sex, race",18,0.043,66.15803217887878
+KDD,Random Search,Combined,"sex, race",19,0.041,69.1243109703064
+KDD,Random Search,Combined,"sex, race",20,0.033,65.42228817939758
+KDD,Random Search,Combined,"sex, race",21,0.036,66.41522789001465
+KDD,Random Search,Combined,"sex, race",22,0.033,65.34700226783752
+KDD,Random Search,Combined,"sex, race",23,0.033,64.94008088111877
+KDD,Random Search,Combined,"sex, race",24,0.029,64.95214223861694
+KDD,Random Search,Combined,"sex, race",25,0.033,65.50093126296997
+KDD,Random Search,Combined,"sex, race",26,0.035,68.18919491767883
+KDD,Random Search,Combined,"sex, race",27,0.042,66.85695385932922
+KDD,Random Search,Combined,"sex, race",28,0.028,67.41298270225525
+KDD,Random Search,Combined,"sex, race",29,0.029,66.26669001579285
+KDD,Random Search,Combined,"sex, race",30,0.022,66.29175019264221
+KDD,GA+Local Search,Combined,"sex, race",1,0.184,64.54424595832825
+KDD,GA+Local Search,Combined,"sex, race",2,0.152,64.37334418296814
+KDD,GA+Local Search,Combined,"sex, race",3,0.181,64.71495699882507
+KDD,GA+Local Search,Combined,"sex, race",4,0.234,64.41798710823059
+KDD,GA+Local Search,Combined,"sex, race",5,0.224,64.6742000579834
+KDD,GA+Local Search,Combined,"sex, race",6,0.208,64.40586709976196
+KDD,GA+Local Search,Combined,"sex, race",7,0.163,65.3349859714508
+KDD,GA+Local Search,Combined,"sex, race",8,0.161,64.72279977798462
+KDD,GA+Local Search,Combined,"sex, race",9,0.206,64.70839500427246
+KDD,GA+Local Search,Combined,"sex, race",10,0.163,63.830244064331055
+KDD,GA+Local Search,Combined,"sex, race",11,0.182,65.82122802734375
+KDD,GA+Local Search,Combined,"sex, race",12,0.184,63.685218811035156
+KDD,GA+Local Search,Combined,"sex, race",13,0.194,63.06338834762573
+KDD,GA+Local Search,Combined,"sex, race",14,0.175,63.748613119125366
+KDD,GA+Local Search,Combined,"sex, race",15,0.18,63.73462200164795
+KDD,GA+Local Search,Combined,"sex, race",16,0.186,64.40977883338928
+KDD,GA+Local Search,Combined,"sex, race",17,0.143,64.5123541355133
+KDD,GA+Local Search,Combined,"sex, race",18,0.17,64.45265412330627
+KDD,GA+Local Search,Combined,"sex, race",19,0.2,64.29114699363708
+KDD,GA+Local Search,Combined,"sex, race",20,0.183,64.40004801750183
+KDD,GA+Local Search,Combined,"sex, race",21,0.155,64.93399405479431
+KDD,GA+Local Search,Combined,"sex, race",22,0.208,64.63598275184631
+KDD,GA+Local Search,Combined,"sex, race",23,0.21,65.10735893249512
+KDD,GA+Local Search,Combined,"sex, race",24,0.179,64.53186583518982
+KDD,GA+Local Search,Combined,"sex, race",25,0.175,64.56223106384277
+KDD,GA+Local Search,Combined,"sex, race",26,0.207,64.35542798042297
+KDD,GA+Local Search,Combined,"sex, race",27,0.227,63.47407793998718
+KDD,GA+Local Search,Combined,"sex, race",28,0.175,63.84757208824158
+KDD,GA+Local Search,Combined,"sex, race",29,0.177,63.111879110336304
+KDD,GA+Local Search,Combined,"sex, race",30,0.207,67.42980599403381
+KDD,Random Search,Single,sex,1,0.037,66.40735793113708
+KDD,Random Search,Single,sex,2,0.037,66.45519399642944
+KDD,Random Search,Single,sex,3,0.032,67.46970891952515
+KDD,Random Search,Single,sex,4,0.027,68.4001841545105
+KDD,Random Search,Single,sex,5,0.029,67.82973170280457
+KDD,Random Search,Single,sex,6,0.038,68.248379945755
+KDD,Random Search,Single,sex,7,0.027,67.577556848526
+KDD,Random Search,Single,sex,8,0.037,68.08030986785889
+KDD,Random Search,Single,sex,9,0.037,67.77043008804321
+KDD,Random Search,Single,sex,10,0.039,67.81059288978577
+KDD,Random Search,Single,sex,11,0.03,67.71972894668579
+KDD,Random Search,Single,sex,12,0.036,68.05668997764587
+KDD,Random Search,Single,sex,13,0.038,68.0878119468689
+KDD,Random Search,Single,sex,14,0.034,67.70106506347656
+KDD,Random Search,Single,sex,15,0.03,67.53034710884094
+KDD,Random Search,Single,sex,16,0.033,67.96833515167236
+KDD,Random Search,Single,sex,17,0.036,67.36653780937195
+KDD,Random Search,Single,sex,18,0.03,67.7838499546051
+KDD,Random Search,Single,sex,19,0.025,67.85372805595398
+KDD,Random Search,Single,sex,20,0.042,67.58111596107483
+KDD,Random Search,Single,sex,21,0.034,67.22730112075806
+KDD,Random Search,Single,sex,22,0.034,67.00185894966125
+KDD,Random Search,Single,sex,23,0.031,67.1620831489563
+KDD,Random Search,Single,sex,24,0.043,67.07789897918701
+KDD,Random Search,Single,sex,25,0.032,67.01539897918701
+KDD,Random Search,Single,sex,26,0.033,67.07799196243286
+KDD,Random Search,Single,sex,27,0.029,67.3688530921936
+KDD,Random Search,Single,sex,28,0.031,66.88308596611023
+KDD,Random Search,Single,sex,29,0.033,67.09339189529419
+KDD,Random Search,Single,sex,30,0.034,66.89658689498901
+KDD,GA+Local Search,Single,sex,1,0.165,64.67228317260742
+KDD,GA+Local Search,Single,sex,2,0.182,65.65804815292358
+KDD,GA+Local Search,Single,sex,3,0.154,64.96080684661865
+KDD,GA+Local Search,Single,sex,4,0.173,64.9882218837738
+KDD,GA+Local Search,Single,sex,5,0.157,64.69776105880737
+KDD,GA+Local Search,Single,sex,6,0.154,64.39849615097046
+KDD,GA+Local Search,Single,sex,7,0.146,67.2469072341919
+KDD,GA+Local Search,Single,sex,8,0.147,67.33150100708008
+KDD,GA+Local Search,Single,sex,9,0.167,65.0068461894989
+KDD,GA+Local Search,Single,sex,10,0.157,64.54636597633362
+KDD,GA+Local Search,Single,sex,11,0.149,65.55737280845642
+KDD,GA+Local Search,Single,sex,12,0.146,64.5128710269928
+KDD,GA+Local Search,Single,sex,13,0.138,65.31640291213989
+KDD,GA+Local Search,Single,sex,14,0.184,64.995521068573
+KDD,GA+Local Search,Single,sex,15,0.173,65.05541706085205
+KDD,GA+Local Search,Single,sex,16,0.145,64.97792196273804
+KDD,GA+Local Search,Single,sex,17,0.158,64.6802270412445
+KDD,GA+Local Search,Single,sex,18,0.161,64.95862984657288
+KDD,GA+Local Search,Single,sex,19,0.158,63.682555198669434
+KDD,GA+Local Search,Single,sex,20,0.168,63.588781118392944
+KDD,GA+Local Search,Single,sex,21,0.146,63.900866985321045
+KDD,GA+Local Search,Single,sex,22,0.176,64.09866213798523
+KDD,GA+Local Search,Single,sex,23,0.149,63.69975399971008
+KDD,GA+Local Search,Single,sex,24,0.133,63.65030097961426
+KDD,GA+Local Search,Single,sex,25,0.151,64.04002785682678
+KDD,GA+Local Search,Single,sex,26,0.142,63.33371186256409
+KDD,GA+Local Search,Single,sex,27,0.186,64.06670117378235
+KDD,GA+Local Search,Single,sex,28,0.172,63.82326006889343
+KDD,GA+Local Search,Single,sex,29,0.155,64.14001989364624
+KDD,GA+Local Search,Single,sex,30,0.138,63.67871809005737
+KDD,Random Search,Single,race,1,0.0,65.62111115455627
+KDD,Random Search,Single,race,2,0.0,66.55334806442261
+KDD,Random Search,Single,race,3,0.0,70.410719871521
+KDD,Random Search,Single,race,4,0.001,67.1987452507019
+KDD,Random Search,Single,race,5,0.001,66.69745111465454
+KDD,Random Search,Single,race,6,0.0,66.83140683174133
+KDD,Random Search,Single,race,7,0.0,66.52491903305054
+KDD,Random Search,Single,race,8,0.0,66.89592432975769
+KDD,Random Search,Single,race,9,0.0,67.32877016067505
+KDD,Random Search,Single,race,10,0.001,66.9749231338501
+KDD,Random Search,Single,race,11,0.0,66.71620512008667
+KDD,Random Search,Single,race,12,0.001,66.60872864723206
+KDD,Random Search,Single,race,13,0.002,67.30141305923462
+KDD,Random Search,Single,race,14,0.0,66.87797284126282
+KDD,Random Search,Single,race,15,0.001,66.64329600334167
+KDD,Random Search,Single,race,16,0.002,66.4666121006012
+KDD,Random Search,Single,race,17,0.001,66.91086792945862
+KDD,Random Search,Single,race,18,0.0,66.81344985961914
+KDD,Random Search,Single,race,19,0.0,66.81254386901855
+KDD,Random Search,Single,race,20,0.001,67.00022101402283
+KDD,Random Search,Single,race,21,0.001,66.45198488235474
+KDD,Random Search,Single,race,22,0.0,66.78516817092896
+KDD,Random Search,Single,race,23,0.0,66.4884421825409
+KDD,Random Search,Single,race,24,0.0,66.5874969959259
+KDD,Random Search,Single,race,25,0.001,67.26340889930725
+KDD,Random Search,Single,race,26,0.0,66.36299896240234
+KDD,Random Search,Single,race,27,0.001,66.93424987792969
+KDD,Random Search,Single,race,28,0.0,66.04942679405212
+KDD,Random Search,Single,race,29,0.0,66.15402221679688
+KDD,Random Search,Single,race,30,0.002,66.32309126853943
+KDD,GA+Local Search,Single,race,1,0.004,63.668936252593994
+KDD,GA+Local Search,Single,race,2,0.004,64.13743424415588
+KDD,GA+Local Search,Single,race,3,0.006,64.01439595222473
+KDD,GA+Local Search,Single,race,4,0.009,63.967283964157104
+KDD,GA+Local Search,Single,race,5,0.007,64.1866717338562
+KDD,GA+Local Search,Single,race,6,0.003,64.088858127594
+KDD,GA+Local Search,Single,race,7,0.009,63.635308027267456
+KDD,GA+Local Search,Single,race,8,0.007,63.603435039520264
+KDD,GA+Local Search,Single,race,9,0.004,63.78503203392029
+KDD,GA+Local Search,Single,race,10,0.005,63.88180875778198
+KDD,GA+Local Search,Single,race,11,0.01,64.09714078903198
+KDD,GA+Local Search,Single,race,12,0.004,64.14250898361206
+KDD,GA+Local Search,Single,race,13,0.007,64.10546207427979
+KDD,GA+Local Search,Single,race,14,0.008,63.80120587348938
+KDD,GA+Local Search,Single,race,15,0.011,64.29212808609009
+KDD,GA+Local Search,Single,race,16,0.01,63.693645000457764
+KDD,GA+Local Search,Single,race,17,0.0,64.37254500389099
+KDD,GA+Local Search,Single,race,18,0.0,64.7770688533783
+KDD,GA+Local Search,Single,race,19,0.014,64.17643189430237
+KDD,GA+Local Search,Single,race,20,0.009,64.04517817497253
+KDD,GA+Local Search,Single,race,21,0.01,63.88357090950012
+KDD,GA+Local Search,Single,race,22,0.012,64.11473298072815
+KDD,GA+Local Search,Single,race,23,0.011,63.945579051971436
+KDD,GA+Local Search,Single,race,24,0.005,63.95854306221008
+KDD,GA+Local Search,Single,race,25,0.001,64.51556396484375
+KDD,GA+Local Search,Single,race,26,0.011,63.66058301925659
+KDD,GA+Local Search,Single,race,27,0.0,55.82070302963257
+KDD,GA+Local Search,Single,race,28,0.01,43.79519486427307
+KDD,GA+Local Search,Single,race,29,0.004,39.35729002952576
+KDD,GA+Local Search,Single,race,30,0.004,39.70302605628967
+DUTCH,Random Search,Combined,"sex, age",1,0.015,61.19836902618408
+DUTCH,Random Search,Combined,"sex, age",2,0.015,62.50679016113281
+DUTCH,Random Search,Combined,"sex, age",3,0.014,61.62026596069336
+DUTCH,Random Search,Combined,"sex, age",4,0.013,61.6173141002655
+DUTCH,Random Search,Combined,"sex, age",5,0.016,61.56427311897278
+DUTCH,Random Search,Combined,"sex, age",6,0.012,62.04504585266113
+DUTCH,Random Search,Combined,"sex, age",7,0.014,62.1126389503479
+DUTCH,Random Search,Combined,"sex, age",8,0.02,61.68392491340637
+DUTCH,Random Search,Combined,"sex, age",9,0.01,61.53310775756836
+DUTCH,Random Search,Combined,"sex, age",10,0.013,62.620737075805664
+DUTCH,Random Search,Combined,"sex, age",11,0.015,62.74634504318237
+DUTCH,Random Search,Combined,"sex, age",12,0.019,62.89813685417175
+DUTCH,Random Search,Combined,"sex, age",13,0.02,62.59213590621948
+DUTCH,Random Search,Combined,"sex, age",14,0.016,63.37818908691406
+DUTCH,Random Search,Combined,"sex, age",15,0.013,62.77039098739624
+DUTCH,Random Search,Combined,"sex, age",16,0.019,63.01132082939148
+DUTCH,Random Search,Combined,"sex, age",17,0.02,63.04299807548523
+DUTCH,Random Search,Combined,"sex, age",18,0.014,63.2509331703186
+DUTCH,Random Search,Combined,"sex, age",19,0.013,65.64468932151794
+DUTCH,Random Search,Combined,"sex, age",20,0.017,64.33230209350586
+DUTCH,Random Search,Combined,"sex, age",21,0.013,62.720571994781494
+DUTCH,Random Search,Combined,"sex, age",22,0.015,64.13709425926208
+DUTCH,Random Search,Combined,"sex, age",23,0.017,62.699315786361694
+DUTCH,Random Search,Combined,"sex, age",24,0.019,62.72827386856079
+DUTCH,Random Search,Combined,"sex, age",25,0.018,63.15778303146362
+DUTCH,Random Search,Combined,"sex, age",26,0.008,63.1565887928009
+DUTCH,Random Search,Combined,"sex, age",27,0.012,65.46306204795837
+DUTCH,Random Search,Combined,"sex, age",28,0.011,64.4689769744873
+DUTCH,Random Search,Combined,"sex, age",29,0.011,65.42891120910645
+DUTCH,Random Search,Combined,"sex, age",30,0.014,63.79874300956726
+DUTCH,GA+Local Search,Combined,"sex, age",1,0.245,63.68352699279785
+DUTCH,GA+Local Search,Combined,"sex, age",2,0.277,63.896121978759766
+DUTCH,GA+Local Search,Combined,"sex, age",3,0.248,63.747230052948
+DUTCH,GA+Local Search,Combined,"sex, age",4,0.245,64.21314883232117
+DUTCH,GA+Local Search,Combined,"sex, age",5,0.236,63.65553689002991
+DUTCH,GA+Local Search,Combined,"sex, age",6,0.267,63.86053824424744
+DUTCH,GA+Local Search,Combined,"sex, age",7,0.343,63.65113615989685
+DUTCH,GA+Local Search,Combined,"sex, age",8,0.285,64.65179300308228
+DUTCH,GA+Local Search,Combined,"sex, age",9,0.23,64.57912492752075
+DUTCH,GA+Local Search,Combined,"sex, age",10,0.229,64.09195399284363
+DUTCH,GA+Local Search,Combined,"sex, age",11,0.224,64.01980972290039
+DUTCH,GA+Local Search,Combined,"sex, age",12,0.244,65.23734712600708
+DUTCH,GA+Local Search,Combined,"sex, age",13,0.24,62.92532014846802
+DUTCH,GA+Local Search,Combined,"sex, age",14,0.229,63.07145810127258
+DUTCH,GA+Local Search,Combined,"sex, age",15,0.255,62.83827567100525
+DUTCH,GA+Local Search,Combined,"sex, age",16,0.273,62.92823076248169
+DUTCH,GA+Local Search,Combined,"sex, age",17,0.244,63.03059005737305
+DUTCH,GA+Local Search,Combined,"sex, age",18,0.203,64.20739984512329
+DUTCH,GA+Local Search,Combined,"sex, age",19,0.272,64.48029899597168
+DUTCH,GA+Local Search,Combined,"sex, age",20,0.195,64.65552496910095
+DUTCH,GA+Local Search,Combined,"sex, age",21,0.258,64.10241198539734
+DUTCH,GA+Local Search,Combined,"sex, age",22,0.241,64.12653803825378
+DUTCH,GA+Local Search,Combined,"sex, age",23,0.295,64.66501712799072
+DUTCH,GA+Local Search,Combined,"sex, age",24,0.267,64.74254393577576
+DUTCH,GA+Local Search,Combined,"sex, age",25,0.168,64.43209290504456
+DUTCH,GA+Local Search,Combined,"sex, age",26,0.262,64.33295893669128
+DUTCH,GA+Local Search,Combined,"sex, age",27,0.277,62.85987305641174
+DUTCH,GA+Local Search,Combined,"sex, age",28,0.254,63.132702112197876
+DUTCH,GA+Local Search,Combined,"sex, age",29,0.232,63.00987434387207
+DUTCH,GA+Local Search,Combined,"sex, age",30,0.23,63.63782286643982
+DUTCH,Random Search,Single,sex,1,0.001,65.81973004341125
+DUTCH,Random Search,Single,sex,2,0.005,65.9371109008789
+DUTCH,Random Search,Single,sex,3,0.004,64.56093406677246
+DUTCH,Random Search,Single,sex,4,0.005,64.59308075904846
+DUTCH,Random Search,Single,sex,5,0.005,66.44478702545166
+DUTCH,Random Search,Single,sex,6,0.006,64.79451990127563
+DUTCH,Random Search,Single,sex,7,0.007,64.78800630569458
+DUTCH,Random Search,Single,sex,8,0.004,65.11572313308716
+DUTCH,Random Search,Single,sex,9,0.007,65.12845015525818
+DUTCH,Random Search,Single,sex,10,0.006,65.21891188621521
+DUTCH,Random Search,Single,sex,11,0.005,65.30165195465088
+DUTCH,Random Search,Single,sex,12,0.002,65.45972204208374
+DUTCH,Random Search,Single,sex,13,0.005,65.2156150341034
+DUTCH,Random Search,Single,sex,14,0.002,65.43305587768555
+DUTCH,Random Search,Single,sex,15,0.004,65.46605896949768
+DUTCH,Random Search,Single,sex,16,0.007,64.67054200172424
+DUTCH,Random Search,Single,sex,17,0.006,64.85623121261597
+DUTCH,Random Search,Single,sex,18,0.01,64.96981596946716
+DUTCH,Random Search,Single,sex,19,0.007,65.17221593856812
+DUTCH,Random Search,Single,sex,20,0.009,64.94279503822327
+DUTCH,Random Search,Single,sex,21,0.006,65.33961391448975
+DUTCH,Random Search,Single,sex,22,0.009,64.37954211235046
+DUTCH,Random Search,Single,sex,23,0.01,64.87009811401367
+DUTCH,Random Search,Single,sex,24,0.011,65.11500000953674
+DUTCH,Random Search,Single,sex,25,0.004,64.7500376701355
+DUTCH,Random Search,Single,sex,26,0.006,64.56706500053406
+DUTCH,Random Search,Single,sex,27,0.006,64.92933893203735
+DUTCH,Random Search,Single,sex,28,0.007,65.04043102264404
+DUTCH,Random Search,Single,sex,29,0.005,65.13404321670532
+DUTCH,Random Search,Single,sex,30,0.007,65.03598284721375
+DUTCH,GA+Local Search,Single,sex,1,0.189,64.26490187644958
+DUTCH,GA+Local Search,Single,sex,2,0.166,63.829962968826294
+DUTCH,GA+Local Search,Single,sex,3,0.181,64.22703218460083
+DUTCH,GA+Local Search,Single,sex,4,0.18,64.21818685531616
+DUTCH,GA+Local Search,Single,sex,5,0.177,64.75389170646667
+DUTCH,GA+Local Search,Single,sex,6,0.161,63.710196018218994
+DUTCH,GA+Local Search,Single,sex,7,0.185,63.85248017311096
+DUTCH,GA+Local Search,Single,sex,8,0.001,64.33815479278564
+DUTCH,GA+Local Search,Single,sex,9,0.166,66.70061111450195
+DUTCH,GA+Local Search,Single,sex,10,0.147,63.97798776626587
+DUTCH,GA+Local Search,Single,sex,11,0.182,67.12171220779419
+DUTCH,GA+Local Search,Single,sex,12,0.188,64.31244421005249
+DUTCH,GA+Local Search,Single,sex,13,0.174,64.3198778629303
+DUTCH,GA+Local Search,Single,sex,14,0.158,64.31651210784912
+DUTCH,GA+Local Search,Single,sex,15,0.152,64.41386818885803
+DUTCH,GA+Local Search,Single,sex,16,0.133,64.17048621177673
+DUTCH,GA+Local Search,Single,sex,17,0.216,64.69419598579407
+DUTCH,GA+Local Search,Single,sex,18,0.166,64.5103669166565
+DUTCH,GA+Local Search,Single,sex,19,0.16,64.81169009208679
+DUTCH,GA+Local Search,Single,sex,20,0.168,65.05503106117249
+DUTCH,GA+Local Search,Single,sex,21,0.177,63.66528105735779
+DUTCH,GA+Local Search,Single,sex,22,0.187,63.24964118003845
+DUTCH,GA+Local Search,Single,sex,23,0.192,63.659170627593994
+DUTCH,GA+Local Search,Single,sex,24,0.175,63.254533767700195
+DUTCH,GA+Local Search,Single,sex,25,0.184,63.950392961502075
+DUTCH,GA+Local Search,Single,sex,26,0.156,62.910459995269775
+DUTCH,GA+Local Search,Single,sex,27,0.2,63.24048089981079
+DUTCH,GA+Local Search,Single,sex,28,0.184,63.288280963897705
+DUTCH,GA+Local Search,Single,sex,29,0.202,63.5679349899292
+DUTCH,GA+Local Search,Single,sex,30,0.198,63.733562707901
+DUTCH,Random Search,Single,age,1,0.011,63.746488094329834
+DUTCH,Random Search,Single,age,2,0.019,64.012855052948
+DUTCH,Random Search,Single,age,3,0.019,64.46660590171814
+DUTCH,Random Search,Single,age,4,0.018,64.46055603027344
+DUTCH,Random Search,Single,age,5,0.019,64.47032189369202
+DUTCH,Random Search,Single,age,6,0.012,68.06717109680176
+DUTCH,Random Search,Single,age,7,0.023,64.43350505828857
+DUTCH,Random Search,Single,age,8,0.013,64.53614497184753
+DUTCH,Random Search,Single,age,9,0.012,64.71985411643982
+DUTCH,Random Search,Single,age,10,0.012,64.6496229171753
+DUTCH,Random Search,Single,age,11,0.013,64.26421308517456
+DUTCH,Random Search,Single,age,12,0.02,64.4702877998352
+DUTCH,Random Search,Single,age,13,0.017,64.6911199092865
+DUTCH,Random Search,Single,age,14,0.013,64.27637195587158
+DUTCH,Random Search,Single,age,15,0.012,64.33892822265625
+DUTCH,Random Search,Single,age,16,0.012,64.18770599365234
+DUTCH,Random Search,Single,age,17,0.017,64.36140418052673
+DUTCH,Random Search,Single,age,18,0.01,63.9737982749939
+DUTCH,Random Search,Single,age,19,0.018,64.31476616859436
+DUTCH,Random Search,Single,age,20,0.015,64.17103910446167
+DUTCH,Random Search,Single,age,21,0.016,64.2641351222992
+DUTCH,Random Search,Single,age,22,0.017,64.63095283508301
+DUTCH,Random Search,Single,age,23,0.012,64.42729091644287
+DUTCH,Random Search,Single,age,24,0.011,64.07918882369995
+DUTCH,Random Search,Single,age,25,0.019,64.12372493743896
+DUTCH,Random Search,Single,age,26,0.014,64.32908487319946
+DUTCH,Random Search,Single,age,27,0.014,64.11209917068481
+DUTCH,Random Search,Single,age,28,0.017,63.9942090511322
+DUTCH,Random Search,Single,age,29,0.021,65.31520795822144
+DUTCH,Random Search,Single,age,30,0.01,64.22524905204773
+DUTCH,GA+Local Search,Single,age,1,0.251,63.91861176490784
+DUTCH,GA+Local Search,Single,age,2,0.263,63.4130699634552
+DUTCH,GA+Local Search,Single,age,3,0.305,63.57109785079956
+DUTCH,GA+Local Search,Single,age,4,0.237,63.32613015174866
+DUTCH,GA+Local Search,Single,age,5,0.261,63.59704875946045
+DUTCH,GA+Local Search,Single,age,6,0.264,63.169846057891846
+DUTCH,GA+Local Search,Single,age,7,0.263,63.48440599441528
+DUTCH,GA+Local Search,Single,age,8,0.268,63.18162417411804
+DUTCH,GA+Local Search,Single,age,9,0.222,63.137734174728394
+DUTCH,GA+Local Search,Single,age,10,0.298,63.23403477668762
+DUTCH,GA+Local Search,Single,age,11,0.303,63.44163131713867
+DUTCH,GA+Local Search,Single,age,12,0.246,63.629202127456665
+DUTCH,GA+Local Search,Single,age,13,0.312,63.423490047454834
+DUTCH,GA+Local Search,Single,age,14,0.254,63.966001987457275
+DUTCH,GA+Local Search,Single,age,15,0.254,63.85467314720154
+DUTCH,GA+Local Search,Single,age,16,0.181,63.65490794181824
+DUTCH,GA+Local Search,Single,age,17,0.233,63.52130103111267
+DUTCH,GA+Local Search,Single,age,18,0.263,63.31865906715393
+DUTCH,GA+Local Search,Single,age,19,0.292,63.55868887901306
+DUTCH,GA+Local Search,Single,age,20,0.275,63.62437915802002
+DUTCH,GA+Local Search,Single,age,21,0.277,63.585551261901855
+DUTCH,GA+Local Search,Single,age,22,0.189,63.656179904937744
+DUTCH,GA+Local Search,Single,age,23,0.285,63.34624910354614
+DUTCH,GA+Local Search,Single,age,24,0.253,63.13329577445984
+DUTCH,GA+Local Search,Single,age,25,0.259,63.67330002784729
+DUTCH,GA+Local Search,Single,age,26,0.255,63.58687424659729
+DUTCH,GA+Local Search,Single,age,27,0.214,63.660706996917725
+DUTCH,GA+Local Search,Single,age,28,0.277,63.488863945007324
+DUTCH,GA+Local Search,Single,age,29,0.277,63.79079580307007
+DUTCH,GA+Local Search,Single,age,30,0.221,63.426100969314575
+CREDIT,Random Search,Combined,"SEX, EDUCATION, MARRIAGE",1,0.598,62.27519369125366
+CREDIT,Random Search,Combined,"SEX, EDUCATION, MARRIAGE",2,0.596,63.592063188552856
+CREDIT,Random Search,Combined,"SEX, EDUCATION, MARRIAGE",3,0.586,62.32064414024353
+CREDIT,Random Search,Combined,"SEX, EDUCATION, MARRIAGE",4,0.58,62.410686016082764
+CREDIT,Random Search,Combined,"SEX, EDUCATION, MARRIAGE",5,0.63,62.241174936294556
+CREDIT,Random Search,Combined,"SEX, EDUCATION, MARRIAGE",6,0.608,62.921918869018555
+CREDIT,Random Search,Combined,"SEX, EDUCATION, MARRIAGE",7,0.609,62.08342790603638
+CREDIT,Random Search,Combined,"SEX, EDUCATION, MARRIAGE",8,0.61,61.84336805343628
+CREDIT,Random Search,Combined,"SEX, EDUCATION, MARRIAGE",9,0.606,63.1374249458313
+CREDIT,Random Search,Combined,"SEX, EDUCATION, MARRIAGE",10,0.57,63.55970525741577
+CREDIT,Random Search,Combined,"SEX, EDUCATION, MARRIAGE",11,0.582,63.2585768699646
+CREDIT,Random Search,Combined,"SEX, EDUCATION, MARRIAGE",12,0.583,63.713634967803955
+CREDIT,Random Search,Combined,"SEX, EDUCATION, MARRIAGE",13,0.593,63.19159388542175
+CREDIT,Random Search,Combined,"SEX, EDUCATION, MARRIAGE",14,0.598,63.99503993988037
+CREDIT,Random Search,Combined,"SEX, EDUCATION, MARRIAGE",15,0.593,63.66288471221924
+CREDIT,Random Search,Combined,"SEX, EDUCATION, MARRIAGE",16,0.59,64.07728099822998
+CREDIT,Random Search,Combined,"SEX, EDUCATION, MARRIAGE",17,0.574,64.00058174133301
+CREDIT,Random Search,Combined,"SEX, EDUCATION, MARRIAGE",18,0.618,63.94356894493103
+CREDIT,Random Search,Combined,"SEX, EDUCATION, MARRIAGE",19,0.57,67.97580909729004
+CREDIT,Random Search,Combined,"SEX, EDUCATION, MARRIAGE",20,0.597,63.50308799743652
+CREDIT,Random Search,Combined,"SEX, EDUCATION, MARRIAGE",21,0.605,64.37155199050903
+CREDIT,Random Search,Combined,"SEX, EDUCATION, MARRIAGE",22,0.589,64.16029524803162
+CREDIT,Random Search,Combined,"SEX, EDUCATION, MARRIAGE",23,0.572,63.77598214149475
+CREDIT,Random Search,Combined,"SEX, EDUCATION, MARRIAGE",24,0.577,63.91998815536499
+CREDIT,Random Search,Combined,"SEX, EDUCATION, MARRIAGE",25,0.61,63.70281386375427
+CREDIT,Random Search,Combined,"SEX, EDUCATION, MARRIAGE",26,0.611,65.9633948802948
+CREDIT,Random Search,Combined,"SEX, EDUCATION, MARRIAGE",27,0.616,65.40664315223694
+CREDIT,Random Search,Combined,"SEX, EDUCATION, MARRIAGE",28,0.592,65.42187809944153
+CREDIT,Random Search,Combined,"SEX, EDUCATION, MARRIAGE",29,0.571,65.74026894569397
+CREDIT,Random Search,Combined,"SEX, EDUCATION, MARRIAGE",30,0.574,64.6498339176178
+CREDIT,GA+Local Search,Combined,"SEX, EDUCATION, MARRIAGE",1,0.429,63.81493878364563
+CREDIT,GA+Local Search,Combined,"SEX, EDUCATION, MARRIAGE",2,0.458,64.01911401748657
+CREDIT,GA+Local Search,Combined,"SEX, EDUCATION, MARRIAGE",3,0.445,63.77961277961731
+CREDIT,GA+Local Search,Combined,"SEX, EDUCATION, MARRIAGE",4,0.424,64.20294284820557
+CREDIT,GA+Local Search,Combined,"SEX, EDUCATION, MARRIAGE",5,0.422,63.76434898376465
+CREDIT,GA+Local Search,Combined,"SEX, EDUCATION, MARRIAGE",6,0.433,63.79614186286926
+CREDIT,GA+Local Search,Combined,"SEX, EDUCATION, MARRIAGE",7,0.447,64.14661002159119
+CREDIT,GA+Local Search,Combined,"SEX, EDUCATION, MARRIAGE",8,0.48,64.6548228263855
+CREDIT,GA+Local Search,Combined,"SEX, EDUCATION, MARRIAGE",9,0.427,64.64206790924072
+CREDIT,GA+Local Search,Combined,"SEX, EDUCATION, MARRIAGE",10,0.448,64.29645299911499
+CREDIT,GA+Local Search,Combined,"SEX, EDUCATION, MARRIAGE",11,0.437,63.69826889038086
+CREDIT,GA+Local Search,Combined,"SEX, EDUCATION, MARRIAGE",12,0.436,65.89129304885864
+CREDIT,GA+Local Search,Combined,"SEX, EDUCATION, MARRIAGE",13,0.422,63.13222408294678
+CREDIT,GA+Local Search,Combined,"SEX, EDUCATION, MARRIAGE",14,0.441,63.44696497917175
+CREDIT,GA+Local Search,Combined,"SEX, EDUCATION, MARRIAGE",15,0.442,62.83210897445679
+CREDIT,GA+Local Search,Combined,"SEX, EDUCATION, MARRIAGE",16,0.401,63.456331729888916
+CREDIT,GA+Local Search,Combined,"SEX, EDUCATION, MARRIAGE",17,0.423,63.672285079956055
+CREDIT,GA+Local Search,Combined,"SEX, EDUCATION, MARRIAGE",18,0.425,64.3009741306305
+CREDIT,GA+Local Search,Combined,"SEX, EDUCATION, MARRIAGE",19,0.41,64.30742311477661
+CREDIT,GA+Local Search,Combined,"SEX, EDUCATION, MARRIAGE",20,0.432,64.32406091690063
+CREDIT,GA+Local Search,Combined,"SEX, EDUCATION, MARRIAGE",21,0.451,63.99355220794678
+CREDIT,GA+Local Search,Combined,"SEX, EDUCATION, MARRIAGE",22,0.463,64.12637400627136
+CREDIT,GA+Local Search,Combined,"SEX, EDUCATION, MARRIAGE",23,0.432,64.656081199646
+CREDIT,GA+Local Search,Combined,"SEX, EDUCATION, MARRIAGE",24,0.417,64.59240412712097
+CREDIT,GA+Local Search,Combined,"SEX, EDUCATION, MARRIAGE",25,0.444,64.49226307868958
+CREDIT,GA+Local Search,Combined,"SEX, EDUCATION, MARRIAGE",26,0.447,64.36475086212158
+CREDIT,GA+Local Search,Combined,"SEX, EDUCATION, MARRIAGE",27,0.401,63.2719361782074
+CREDIT,GA+Local Search,Combined,"SEX, EDUCATION, MARRIAGE",28,0.432,63.05045986175537
+CREDIT,GA+Local Search,Combined,"SEX, EDUCATION, MARRIAGE",29,0.462,63.61299395561218
+CREDIT,GA+Local Search,Combined,"SEX, EDUCATION, MARRIAGE",30,0.429,63.12220788002014
+CREDIT,Random Search,Single,SEX,1,0.062,67.988205909729
+CREDIT,Random Search,Single,SEX,2,0.06,65.9586501121521
+CREDIT,Random Search,Single,SEX,3,0.067,65.03891181945801
+CREDIT,Random Search,Single,SEX,4,0.06,66.62226700782776
+CREDIT,Random Search,Single,SEX,5,0.067,66.75041699409485
+CREDIT,Random Search,Single,SEX,6,0.062,66.43546867370605
+CREDIT,Random Search,Single,SEX,7,0.069,65.84891891479492
+CREDIT,Random Search,Single,SEX,8,0.069,66.26402187347412
+CREDIT,Random Search,Single,SEX,9,0.065,65.70085597038269
+CREDIT,Random Search,Single,SEX,10,0.065,66.00976181030273
+CREDIT,Random Search,Single,SEX,11,0.082,65.98186302185059
+CREDIT,Random Search,Single,SEX,12,0.066,66.14107966423035
+CREDIT,Random Search,Single,SEX,13,0.06,66.44165015220642
+CREDIT,Random Search,Single,SEX,14,0.067,66.3413918018341
+CREDIT,Random Search,Single,SEX,15,0.053,65.7779381275177
+CREDIT,Random Search,Single,SEX,16,0.067,65.65931296348572
+CREDIT,Random Search,Single,SEX,17,0.059,65.98110008239746
+CREDIT,Random Search,Single,SEX,18,0.064,65.60922026634216
+CREDIT,Random Search,Single,SEX,19,0.052,65.73853898048401
+CREDIT,Random Search,Single,SEX,20,0.056,66.04481720924377
+CREDIT,Random Search,Single,SEX,21,0.056,65.69427609443665
+CREDIT,Random Search,Single,SEX,22,0.066,65.32687211036682
+CREDIT,Random Search,Single,SEX,23,0.065,65.55909991264343
+CREDIT,Random Search,Single,SEX,24,0.058,65.49891686439514
+CREDIT,Random Search,Single,SEX,25,0.056,65.62482595443726
+CREDIT,Random Search,Single,SEX,26,0.089,65.11117887496948
+CREDIT,Random Search,Single,SEX,27,0.071,65.545569896698
+CREDIT,Random Search,Single,SEX,28,0.055,66.09776997566223
+CREDIT,Random Search,Single,SEX,29,0.068,65.62216711044312
+CREDIT,Random Search,Single,SEX,30,0.064,65.39790892601013
+CREDIT,GA+Local Search,Single,SEX,1,0.207,63.622507095336914
+CREDIT,GA+Local Search,Single,SEX,2,0.22,64.38955211639404
+CREDIT,GA+Local Search,Single,SEX,3,0.225,64.08696222305298
+CREDIT,GA+Local Search,Single,SEX,4,0.224,64.49346375465393
+CREDIT,GA+Local Search,Single,SEX,5,0.239,63.828176975250244
+CREDIT,GA+Local Search,Single,SEX,6,0.207,64.86949586868286
+CREDIT,GA+Local Search,Single,SEX,7,0.227,64.13586568832397
+CREDIT,GA+Local Search,Single,SEX,8,0.211,65.74061489105225
+CREDIT,GA+Local Search,Single,SEX,9,0.211,64.78362083435059
+CREDIT,GA+Local Search,Single,SEX,10,0.219,67.23350310325623
+CREDIT,GA+Local Search,Single,SEX,11,0.221,64.59712100028992
+CREDIT,GA+Local Search,Single,SEX,12,0.227,64.20731282234192
+CREDIT,GA+Local Search,Single,SEX,13,0.234,65.3293969631195
+CREDIT,GA+Local Search,Single,SEX,14,0.232,64.29838585853577
+CREDIT,GA+Local Search,Single,SEX,15,0.219,65.1677930355072
+CREDIT,GA+Local Search,Single,SEX,16,0.207,64.13712620735168
+CREDIT,GA+Local Search,Single,SEX,17,0.224,64.76784992218018
+CREDIT,GA+Local Search,Single,SEX,18,0.212,64.98959279060364
+CREDIT,GA+Local Search,Single,SEX,19,0.224,64.57318210601807
+CREDIT,GA+Local Search,Single,SEX,20,0.229,64.3823230266571
+CREDIT,GA+Local Search,Single,SEX,21,0.194,63.3554322719574
+CREDIT,GA+Local Search,Single,SEX,22,0.217,63.727476835250854
+CREDIT,GA+Local Search,Single,SEX,23,0.225,63.56436610221863
+CREDIT,GA+Local Search,Single,SEX,24,0.235,63.69614386558533
+CREDIT,GA+Local Search,Single,SEX,25,0.221,63.371264696121216
+CREDIT,GA+Local Search,Single,SEX,26,0.215,63.936797857284546
+CREDIT,GA+Local Search,Single,SEX,27,0.198,63.293039083480835
+CREDIT,GA+Local Search,Single,SEX,28,0.209,63.60087490081787
+CREDIT,GA+Local Search,Single,SEX,29,0.201,64.09074997901917
+CREDIT,GA+Local Search,Single,SEX,30,0.227,64.0498628616333
+CREDIT,Random Search,Single,EDUCATION,1,0.563,64.41101431846619
+CREDIT,Random Search,Single,EDUCATION,2,0.517,64.71380519866943
+CREDIT,Random Search,Single,EDUCATION,3,0.513,65.49063301086426
+CREDIT,Random Search,Single,EDUCATION,4,0.513,65.2047348022461
+CREDIT,Random Search,Single,EDUCATION,5,0.522,69.05222606658936
+CREDIT,Random Search,Single,EDUCATION,6,0.553,65.69445562362671
+CREDIT,Random Search,Single,EDUCATION,7,0.549,65.3172972202301
+CREDIT,Random Search,Single,EDUCATION,8,0.564,65.54184603691101
+CREDIT,Random Search,Single,EDUCATION,9,0.561,65.46403980255127
+CREDIT,Random Search,Single,EDUCATION,10,0.528,65.53088784217834
+CREDIT,Random Search,Single,EDUCATION,11,0.541,65.53167581558228
+CREDIT,Random Search,Single,EDUCATION,12,0.539,66.17722511291504
+CREDIT,Random Search,Single,EDUCATION,13,0.551,65.09364008903503
+CREDIT,Random Search,Single,EDUCATION,14,0.552,65.2253520488739
+CREDIT,Random Search,Single,EDUCATION,15,0.526,65.60468816757202
+CREDIT,Random Search,Single,EDUCATION,16,0.532,64.98904705047607
+CREDIT,Random Search,Single,EDUCATION,17,0.532,65.61262893676758
+CREDIT,Random Search,Single,EDUCATION,18,0.538,64.78262090682983
+CREDIT,Random Search,Single,EDUCATION,19,0.518,65.19008207321167
+CREDIT,Random Search,Single,EDUCATION,20,0.52,65.43061017990112
+CREDIT,Random Search,Single,EDUCATION,21,0.535,65.08071899414062
+CREDIT,Random Search,Single,EDUCATION,22,0.521,65.15872097015381
+CREDIT,Random Search,Single,EDUCATION,23,0.536,65.33125901222229
+CREDIT,Random Search,Single,EDUCATION,24,0.546,64.98540306091309
+CREDIT,Random Search,Single,EDUCATION,25,0.545,65.03172612190247
+CREDIT,Random Search,Single,EDUCATION,26,0.542,65.49435901641846
+CREDIT,Random Search,Single,EDUCATION,27,0.532,65.97472405433655
+CREDIT,Random Search,Single,EDUCATION,28,0.573,64.98047614097595
+CREDIT,Random Search,Single,EDUCATION,29,0.539,65.20950722694397
+CREDIT,Random Search,Single,EDUCATION,30,0.516,64.58253693580627
+CREDIT,GA+Local Search,Single,EDUCATION,1,0.405,64.01069712638855
+CREDIT,GA+Local Search,Single,EDUCATION,2,0.381,63.6708619594574
+CREDIT,GA+Local Search,Single,EDUCATION,3,0.354,64.12594103813171
+CREDIT,GA+Local Search,Single,EDUCATION,4,0.365,63.85205101966858
+CREDIT,GA+Local Search,Single,EDUCATION,5,0.363,63.718393087387085
+CREDIT,GA+Local Search,Single,EDUCATION,6,0.405,63.5466091632843
+CREDIT,GA+Local Search,Single,EDUCATION,7,0.391,63.6164710521698
+CREDIT,GA+Local Search,Single,EDUCATION,8,0.378,63.860377073287964
+CREDIT,GA+Local Search,Single,EDUCATION,9,0.368,64.22409868240356
+CREDIT,GA+Local Search,Single,EDUCATION,10,0.434,63.83028292655945
+CREDIT,GA+Local Search,Single,EDUCATION,11,0.366,63.61510920524597
+CREDIT,GA+Local Search,Single,EDUCATION,12,0.35,63.6782169342041
+CREDIT,GA+Local Search,Single,EDUCATION,13,0.34,63.64544105529785
+CREDIT,GA+Local Search,Single,EDUCATION,14,0.329,63.687541007995605
+CREDIT,GA+Local Search,Single,EDUCATION,15,0.36,63.728763818740845
+CREDIT,GA+Local Search,Single,EDUCATION,16,0.395,64.0104250907898
+CREDIT,GA+Local Search,Single,EDUCATION,17,0.361,63.72747993469238
+CREDIT,GA+Local Search,Single,EDUCATION,18,0.364,64.0490710735321
+CREDIT,GA+Local Search,Single,EDUCATION,19,0.401,63.911998987197876
+CREDIT,GA+Local Search,Single,EDUCATION,20,0.363,63.56968092918396
+CREDIT,GA+Local Search,Single,EDUCATION,21,0.402,63.56924486160278
+CREDIT,GA+Local Search,Single,EDUCATION,22,0.358,63.77763509750366
+CREDIT,GA+Local Search,Single,EDUCATION,23,0.345,64.36548590660095
+CREDIT,GA+Local Search,Single,EDUCATION,24,0.371,63.58613300323486
+CREDIT,GA+Local Search,Single,EDUCATION,25,0.387,64.19120192527771
+CREDIT,GA+Local Search,Single,EDUCATION,26,0.378,63.601709842681885
+CREDIT,GA+Local Search,Single,EDUCATION,27,0.387,63.57148027420044
+CREDIT,GA+Local Search,Single,EDUCATION,28,0.314,63.953656911849976
+CREDIT,GA+Local Search,Single,EDUCATION,29,0.401,60.885266065597534
+CREDIT,GA+Local Search,Single,EDUCATION,30,0.377,51.884430170059204
+CREDIT,Random Search,Single,MARRIAGE,1,0.142,39.913094997406006
+CREDIT,Random Search,Single,MARRIAGE,2,0.161,39.76472091674805
+CREDIT,Random Search,Single,MARRIAGE,3,0.167,39.010440826416016
+CREDIT,Random Search,Single,MARRIAGE,4,0.161,38.13647413253784
+CREDIT,Random Search,Single,MARRIAGE,5,0.16,38.055055141448975
+CREDIT,Random Search,Single,MARRIAGE,6,0.156,38.057289123535156
+CREDIT,Random Search,Single,MARRIAGE,7,0.123,38.12938380241394
+CREDIT,Random Search,Single,MARRIAGE,8,0.148,37.99711513519287
+CREDIT,Random Search,Single,MARRIAGE,9,0.171,38.2191219329834
+CREDIT,Random Search,Single,MARRIAGE,10,0.167,38.069579124450684
+CREDIT,Random Search,Single,MARRIAGE,11,0.145,38.315388917922974
+CREDIT,Random Search,Single,MARRIAGE,12,0.164,38.05255913734436
+CREDIT,Random Search,Single,MARRIAGE,13,0.144,38.099766969680786
+CREDIT,Random Search,Single,MARRIAGE,14,0.166,38.01937294006348
+CREDIT,Random Search,Single,MARRIAGE,15,0.151,38.04634881019592
+CREDIT,Random Search,Single,MARRIAGE,16,0.148,38.3290798664093
+CREDIT,Random Search,Single,MARRIAGE,17,0.145,38.11693501472473
+CREDIT,Random Search,Single,MARRIAGE,18,0.153,38.33413290977478
+CREDIT,Random Search,Single,MARRIAGE,19,0.165,38.11964797973633
+CREDIT,Random Search,Single,MARRIAGE,20,0.174,38.21996521949768
+CREDIT,Random Search,Single,MARRIAGE,21,0.162,38.207958936691284
+CREDIT,Random Search,Single,MARRIAGE,22,0.159,38.09941506385803
+CREDIT,Random Search,Single,MARRIAGE,23,0.15,38.17271184921265
+CREDIT,Random Search,Single,MARRIAGE,24,0.15,37.85486388206482
+CREDIT,Random Search,Single,MARRIAGE,25,0.154,38.08358287811279
+CREDIT,Random Search,Single,MARRIAGE,26,0.177,38.00059795379639
+CREDIT,Random Search,Single,MARRIAGE,27,0.142,38.12626099586487
+CREDIT,Random Search,Single,MARRIAGE,28,0.157,38.016557931900024
+CREDIT,Random Search,Single,MARRIAGE,29,0.151,37.99624180793762
+CREDIT,Random Search,Single,MARRIAGE,30,0.159,38.71361303329468
+CREDIT,GA+Local Search,Single,MARRIAGE,1,0.21,38.39913892745972
+CREDIT,GA+Local Search,Single,MARRIAGE,2,0.215,38.74460005760193
+CREDIT,GA+Local Search,Single,MARRIAGE,3,0.227,38.403478145599365
+CREDIT,GA+Local Search,Single,MARRIAGE,4,0.279,38.426376819610596
+CREDIT,GA+Local Search,Single,MARRIAGE,5,0.246,37.302627086639404
+CREDIT,GA+Local Search,Single,MARRIAGE,6,0.238,37.17489004135132
+CREDIT,GA+Local Search,Single,MARRIAGE,7,0.232,37.054455041885376
+CREDIT,GA+Local Search,Single,MARRIAGE,8,0.247,36.98855519294739
+CREDIT,GA+Local Search,Single,MARRIAGE,9,0.248,37.22688579559326
+CREDIT,GA+Local Search,Single,MARRIAGE,10,0.26,37.050819873809814
+CREDIT,GA+Local Search,Single,MARRIAGE,11,0.249,37.48808407783508
+CREDIT,GA+Local Search,Single,MARRIAGE,12,0.242,36.82804203033447
+CREDIT,GA+Local Search,Single,MARRIAGE,13,0.202,37.39977192878723
+CREDIT,GA+Local Search,Single,MARRIAGE,14,0.198,36.79252624511719
+CREDIT,GA+Local Search,Single,MARRIAGE,15,0.242,37.41029405593872
+CREDIT,GA+Local Search,Single,MARRIAGE,16,0.221,36.96261715888977
+CREDIT,GA+Local Search,Single,MARRIAGE,17,0.234,37.17552709579468
+CREDIT,GA+Local Search,Single,MARRIAGE,18,0.205,37.126606941223145
+CREDIT,GA+Local Search,Single,MARRIAGE,19,0.229,37.077263832092285
+CREDIT,GA+Local Search,Single,MARRIAGE,20,0.251,37.14671182632446
+CREDIT,GA+Local Search,Single,MARRIAGE,21,0.254,37.028664112091064
+CREDIT,GA+Local Search,Single,MARRIAGE,22,0.177,37.255184173583984
+CREDIT,GA+Local Search,Single,MARRIAGE,23,0.25,36.80953598022461
+CREDIT,GA+Local Search,Single,MARRIAGE,24,0.267,37.36679697036743
+CREDIT,GA+Local Search,Single,MARRIAGE,25,0.254,36.776240825653076
+CREDIT,GA+Local Search,Single,MARRIAGE,26,0.257,37.318474769592285
+CREDIT,GA+Local Search,Single,MARRIAGE,27,0.246,36.83698892593384
+CREDIT,GA+Local Search,Single,MARRIAGE,28,0.255,37.33866310119629
+CREDIT,GA+Local Search,Single,MARRIAGE,29,0.241,36.06126809120178
+CREDIT,GA+Local Search,Single,MARRIAGE,30,0.284,34.56316113471985
+CRIME,Random Search,Combined,"Black, FemalePctDiv",1,0.0,61.5484299659729
+CRIME,Random Search,Combined,"Black, FemalePctDiv",2,0.0,62.74665284156799
+CRIME,Random Search,Combined,"Black, FemalePctDiv",3,0.0,62.49649620056152
+CRIME,Random Search,Combined,"Black, FemalePctDiv",4,0.0,61.88500237464905
+CRIME,Random Search,Combined,"Black, FemalePctDiv",5,0.0,61.98684287071228
+CRIME,Random Search,Combined,"Black, FemalePctDiv",6,0.0,62.58155798912048
+CRIME,Random Search,Combined,"Black, FemalePctDiv",7,0.0,61.71494507789612
+CRIME,Random Search,Combined,"Black, FemalePctDiv",8,0.0,61.90332579612732
+CRIME,Random Search,Combined,"Black, FemalePctDiv",9,0.0,62.47229313850403
+CRIME,Random Search,Combined,"Black, FemalePctDiv",10,0.0,63.055893659591675
+CRIME,Random Search,Combined,"Black, FemalePctDiv",11,0.0,62.882184982299805
+CRIME,Random Search,Combined,"Black, FemalePctDiv",12,0.0,62.51815986633301
+CRIME,Random Search,Combined,"Black, FemalePctDiv",13,0.0,62.93770098686218
+CRIME,Random Search,Combined,"Black, FemalePctDiv",14,0.0,63.9176549911499
+CRIME,Random Search,Combined,"Black, FemalePctDiv",15,0.0,62.97579789161682
+CRIME,Random Search,Combined,"Black, FemalePctDiv",16,0.0,63.098905086517334
+CRIME,Random Search,Combined,"Black, FemalePctDiv",17,0.0,63.2860426902771
+CRIME,Random Search,Combined,"Black, FemalePctDiv",18,0.0,62.89594483375549
+CRIME,Random Search,Combined,"Black, FemalePctDiv",19,0.0,66.84990811347961
+CRIME,Random Search,Combined,"Black, FemalePctDiv",20,0.0,64.08750367164612
+CRIME,Random Search,Combined,"Black, FemalePctDiv",21,0.0,64.47596621513367
+CRIME,Random Search,Combined,"Black, FemalePctDiv",22,0.0,63.32805871963501
+CRIME,Random Search,Combined,"Black, FemalePctDiv",23,0.0,63.75845503807068
+CRIME,Random Search,Combined,"Black, FemalePctDiv",24,0.0,63.684033155441284
+CRIME,Random Search,Combined,"Black, FemalePctDiv",25,0.0,63.3914680480957
+CRIME,Random Search,Combined,"Black, FemalePctDiv",26,0.0,64.08429789543152
+CRIME,Random Search,Combined,"Black, FemalePctDiv",27,0.0,65.14297771453857
+CRIME,Random Search,Combined,"Black, FemalePctDiv",28,0.0,65.2484917640686
+CRIME,Random Search,Combined,"Black, FemalePctDiv",29,0.0,65.77896881103516
+CRIME,Random Search,Combined,"Black, FemalePctDiv",30,0.0,64.34536981582642
+CRIME,GA+Local Search,Combined,"Black, FemalePctDiv",1,0.0,64.41535997390747
+CRIME,GA+Local Search,Combined,"Black, FemalePctDiv",2,0.0,64.1557309627533
+CRIME,GA+Local Search,Combined,"Black, FemalePctDiv",3,0.0,63.98084568977356
+CRIME,GA+Local Search,Combined,"Black, FemalePctDiv",4,0.0,64.05272483825684
+CRIME,GA+Local Search,Combined,"Black, FemalePctDiv",5,0.0,64.19532608985901
+CRIME,GA+Local Search,Combined,"Black, FemalePctDiv",6,0.0,63.888087034225464
+CRIME,GA+Local Search,Combined,"Black, FemalePctDiv",7,0.0,64.41236186027527
+CRIME,GA+Local Search,Combined,"Black, FemalePctDiv",8,0.0,64.78521823883057
+CRIME,GA+Local Search,Combined,"Black, FemalePctDiv",9,0.0,64.66501927375793
+CRIME,GA+Local Search,Combined,"Black, FemalePctDiv",10,0.0,65.08714699745178
+CRIME,GA+Local Search,Combined,"Black, FemalePctDiv",11,0.0,64.27551984786987
+CRIME,GA+Local Search,Combined,"Black, FemalePctDiv",12,0.0,65.71812391281128
+CRIME,GA+Local Search,Combined,"Black, FemalePctDiv",13,0.0,63.06196308135986
+CRIME,GA+Local Search,Combined,"Black, FemalePctDiv",14,0.0,63.47545790672302
+CRIME,GA+Local Search,Combined,"Black, FemalePctDiv",15,0.0,63.694661140441895
+CRIME,GA+Local Search,Combined,"Black, FemalePctDiv",16,0.0,63.161558866500854
+CRIME,GA+Local Search,Combined,"Black, FemalePctDiv",17,0.0,63.52031922340393
+CRIME,GA+Local Search,Combined,"Black, FemalePctDiv",18,0.0,64.3810818195343
+CRIME,GA+Local Search,Combined,"Black, FemalePctDiv",19,0.0,64.76759004592896
+CRIME,GA+Local Search,Combined,"Black, FemalePctDiv",20,0.0,65.20587801933289
+CRIME,GA+Local Search,Combined,"Black, FemalePctDiv",21,0.0,64.74410271644592
+CRIME,GA+Local Search,Combined,"Black, FemalePctDiv",22,0.0,64.74579811096191
+CRIME,GA+Local Search,Combined,"Black, FemalePctDiv",23,0.0,65.25631618499756
+CRIME,GA+Local Search,Combined,"Black, FemalePctDiv",24,0.0,64.52168798446655
+CRIME,GA+Local Search,Combined,"Black, FemalePctDiv",25,0.0,64.54626297950745
+CRIME,GA+Local Search,Combined,"Black, FemalePctDiv",26,0.0,64.6995210647583
+CRIME,GA+Local Search,Combined,"Black, FemalePctDiv",27,0.0,63.53218388557434
+CRIME,GA+Local Search,Combined,"Black, FemalePctDiv",28,0.0,63.7481791973114
+CRIME,GA+Local Search,Combined,"Black, FemalePctDiv",29,0.0,63.5847270488739
+CRIME,GA+Local Search,Combined,"Black, FemalePctDiv",30,0.0,63.798076152801514
+CRIME,Random Search,Single,Black,1,0.0,67.80104112625122
+CRIME,Random Search,Single,Black,2,0.0,65.11353182792664
+CRIME,Random Search,Single,Black,3,0.0,64.83003616333008
+CRIME,Random Search,Single,Black,4,0.0,65.84214973449707
+CRIME,Random Search,Single,Black,5,0.0,65.99704384803772
+CRIME,Random Search,Single,Black,6,0.0,65.3216450214386
+CRIME,Random Search,Single,Black,7,0.0,65.67430281639099
+CRIME,Random Search,Single,Black,8,0.0,65.56083512306213
+CRIME,Random Search,Single,Black,9,0.0,65.67418074607849
+CRIME,Random Search,Single,Black,10,0.0,65.64504194259644
+CRIME,Random Search,Single,Black,11,0.0,66.04453206062317
+CRIME,Random Search,Single,Black,12,0.0,65.67519021034241
+CRIME,Random Search,Single,Black,13,0.0,65.72377109527588
+CRIME,Random Search,Single,Black,14,0.0,66.55402374267578
+CRIME,Random Search,Single,Black,15,0.0,65.67954111099243
+CRIME,Random Search,Single,Black,16,0.0,65.4865369796753
+CRIME,Random Search,Single,Black,17,0.0,65.30709314346313
+CRIME,Random Search,Single,Black,18,0.0,65.1217851638794
+CRIME,Random Search,Single,Black,19,0.0,65.47765398025513
+CRIME,Random Search,Single,Black,20,0.0,65.32113933563232
+CRIME,Random Search,Single,Black,21,0.0,65.3914442062378
+CRIME,Random Search,Single,Black,22,0.0,65.44704699516296
+CRIME,Random Search,Single,Black,23,0.0,65.32158493995667
+CRIME,Random Search,Single,Black,24,0.0,65.2164511680603
+CRIME,Random Search,Single,Black,25,0.0,65.82894706726074
+CRIME,Random Search,Single,Black,26,0.0,65.79212689399719
+CRIME,Random Search,Single,Black,27,0.0,65.44087076187134
+CRIME,Random Search,Single,Black,28,0.0,66.30987906455994
+CRIME,Random Search,Single,Black,29,0.0,66.111652135849
+CRIME,Random Search,Single,Black,30,0.0,65.49478578567505
+CRIME,GA+Local Search,Single,Black,1,0.0,64.77759408950806
+CRIME,GA+Local Search,Single,Black,2,0.0,64.78070974349976
+CRIME,GA+Local Search,Single,Black,3,0.0,64.66371297836304
+CRIME,GA+Local Search,Single,Black,4,0.0,65.15831685066223
+CRIME,GA+Local Search,Single,Black,5,0.0,65.03627920150757
+CRIME,GA+Local Search,Single,Black,6,0.0,65.10360908508301
+CRIME,GA+Local Search,Single,Black,7,0.0,64.5308039188385
+CRIME,GA+Local Search,Single,Black,8,0.0,66.21234822273254
+CRIME,GA+Local Search,Single,Black,9,0.0,66.06636118888855
+CRIME,GA+Local Search,Single,Black,10,0.0,67.65860795974731
+CRIME,GA+Local Search,Single,Black,11,0.0,64.78923392295837
+CRIME,GA+Local Search,Single,Black,12,0.0,64.91026616096497
+CRIME,GA+Local Search,Single,Black,13,0.0,65.54660201072693
+CRIME,GA+Local Search,Single,Black,14,0.0,64.44369077682495
+CRIME,GA+Local Search,Single,Black,15,0.0,65.25256395339966
+CRIME,GA+Local Search,Single,Black,16,0.0,65.34640312194824
+CRIME,GA+Local Search,Single,Black,17,0.0,65.05920600891113
+CRIME,GA+Local Search,Single,Black,18,0.0,64.90677094459534
+CRIME,GA+Local Search,Single,Black,19,0.0,65.10578513145447
+CRIME,GA+Local Search,Single,Black,20,0.0,64.54158306121826
+CRIME,GA+Local Search,Single,Black,21,0.0,64.11103296279907
+CRIME,GA+Local Search,Single,Black,22,0.0,64.03093004226685
+CRIME,GA+Local Search,Single,Black,23,0.0,63.31552267074585
+CRIME,GA+Local Search,Single,Black,24,0.0,63.57357692718506
+CRIME,GA+Local Search,Single,Black,25,0.0,64.01692581176758
+CRIME,GA+Local Search,Single,Black,26,0.0,63.234781980514526
+CRIME,GA+Local Search,Single,Black,27,0.0,63.81828308105469
+CRIME,GA+Local Search,Single,Black,28,0.0,63.65350389480591
+CRIME,GA+Local Search,Single,Black,29,0.0,63.89134621620178
+CRIME,GA+Local Search,Single,Black,30,0.0,64.01738429069519
+CRIME,Random Search,Single,FemalePctDiv,1,0.0,63.955307960510254
+CRIME,Random Search,Single,FemalePctDiv,2,0.0,64.71402907371521
+CRIME,Random Search,Single,FemalePctDiv,3,0.0,64.45078134536743
+CRIME,Random Search,Single,FemalePctDiv,4,0.0,64.64112424850464
+CRIME,Random Search,Single,FemalePctDiv,5,0.0,68.26806998252869
+CRIME,Random Search,Single,FemalePctDiv,6,0.0,64.8681252002716
+CRIME,Random Search,Single,FemalePctDiv,7,0.0,64.73287081718445
+CRIME,Random Search,Single,FemalePctDiv,8,0.0,64.70640778541565
+CRIME,Random Search,Single,FemalePctDiv,9,0.0,64.52161312103271
+CRIME,Random Search,Single,FemalePctDiv,10,0.0,64.98757815361023
+CRIME,Random Search,Single,FemalePctDiv,11,0.0,64.96548390388489
+CRIME,Random Search,Single,FemalePctDiv,12,0.0,65.26037383079529
+CRIME,Random Search,Single,FemalePctDiv,13,0.0,64.94029307365417
+CRIME,Random Search,Single,FemalePctDiv,14,0.0,64.96435260772705
+CRIME,Random Search,Single,FemalePctDiv,15,0.0,64.58081579208374
+CRIME,Random Search,Single,FemalePctDiv,16,0.0,65.14407396316528
+CRIME,Random Search,Single,FemalePctDiv,17,0.0,65.06307697296143
+CRIME,Random Search,Single,FemalePctDiv,18,0.0,64.52826976776123
+CRIME,Random Search,Single,FemalePctDiv,19,0.0,64.3295910358429
+CRIME,Random Search,Single,FemalePctDiv,20,0.0,64.79940009117126
+CRIME,Random Search,Single,FemalePctDiv,21,0.0,64.6221182346344
+CRIME,Random Search,Single,FemalePctDiv,22,0.0,64.8938479423523
+CRIME,Random Search,Single,FemalePctDiv,23,0.0,64.75508403778076
+CRIME,Random Search,Single,FemalePctDiv,24,0.0,65.2081561088562
+CRIME,Random Search,Single,FemalePctDiv,25,0.0,64.7129693031311
+CRIME,Random Search,Single,FemalePctDiv,26,0.0,64.71214485168457
+CRIME,Random Search,Single,FemalePctDiv,27,0.0,64.85278010368347
+CRIME,Random Search,Single,FemalePctDiv,28,0.0,65.7915370464325
+CRIME,Random Search,Single,FemalePctDiv,29,0.0,65.0942120552063
+CRIME,Random Search,Single,FemalePctDiv,30,0.0,64.80736517906189
+CRIME,GA+Local Search,Single,FemalePctDiv,1,0.0,63.95005178451538
+CRIME,GA+Local Search,Single,FemalePctDiv,2,0.0,64.13084101676941
+CRIME,GA+Local Search,Single,FemalePctDiv,3,0.0,64.08077597618103
+CRIME,GA+Local Search,Single,FemalePctDiv,4,0.0,63.52149200439453
+CRIME,GA+Local Search,Single,FemalePctDiv,5,0.0,63.47383975982666
+CRIME,GA+Local Search,Single,FemalePctDiv,6,0.0,63.376768827438354
+CRIME,GA+Local Search,Single,FemalePctDiv,7,0.0,63.48372483253479
+CRIME,GA+Local Search,Single,FemalePctDiv,8,0.0,64.06093192100525
+CRIME,GA+Local Search,Single,FemalePctDiv,9,0.0,63.717008113861084
+CRIME,GA+Local Search,Single,FemalePctDiv,10,0.0,63.98271894454956
+CRIME,GA+Local Search,Single,FemalePctDiv,11,0.0,63.64291477203369
+CRIME,GA+Local Search,Single,FemalePctDiv,12,0.0,63.775285959243774
+CRIME,GA+Local Search,Single,FemalePctDiv,13,0.0,64.10165095329285
+CRIME,GA+Local Search,Single,FemalePctDiv,14,0.0,64.67539381980896
+CRIME,GA+Local Search,Single,FemalePctDiv,15,0.0,63.8479220867157
+CRIME,GA+Local Search,Single,FemalePctDiv,16,0.0,63.78647804260254
+CRIME,GA+Local Search,Single,FemalePctDiv,17,0.0,64.44096398353577
+CRIME,GA+Local Search,Single,FemalePctDiv,18,0.0,63.890162229537964
+CRIME,GA+Local Search,Single,FemalePctDiv,19,0.0,63.95507788658142
+CRIME,GA+Local Search,Single,FemalePctDiv,20,0.0,64.0830590724945
+CRIME,GA+Local Search,Single,FemalePctDiv,21,0.0,63.86569690704346
+CRIME,GA+Local Search,Single,FemalePctDiv,22,0.0,64.07653713226318
+CRIME,GA+Local Search,Single,FemalePctDiv,23,0.0,64.1411612033844
+CRIME,GA+Local Search,Single,FemalePctDiv,24,0.0,64.28088617324829
+CRIME,GA+Local Search,Single,FemalePctDiv,25,0.0,63.895280838012695
+CRIME,GA+Local Search,Single,FemalePctDiv,26,0.0,63.719767808914185
+CRIME,GA+Local Search,Single,FemalePctDiv,27,0.0,63.886210203170776
+CRIME,GA+Local Search,Single,FemalePctDiv,28,0.0,64.04464888572693
+CRIME,GA+Local Search,Single,FemalePctDiv,29,0.0,62.865195989608765
+CRIME,GA+Local Search,Single,FemalePctDiv,30,0.0,54.20210409164429
+GERMAN,Random Search,Combined,"PersonStatusSex, AgeInYears",1,0.544,61.94719481468201
+GERMAN,Random Search,Combined,"PersonStatusSex, AgeInYears",2,0.586,62.85782814025879
+GERMAN,Random Search,Combined,"PersonStatusSex, AgeInYears",3,0.558,62.006632804870605
+GERMAN,Random Search,Combined,"PersonStatusSex, AgeInYears",4,0.562,62.27478575706482
+GERMAN,Random Search,Combined,"PersonStatusSex, AgeInYears",5,0.549,61.93427300453186
+GERMAN,Random Search,Combined,"PersonStatusSex, AgeInYears",6,0.56,62.299076080322266
+GERMAN,Random Search,Combined,"PersonStatusSex, AgeInYears",7,0.55,62.03358578681946
+GERMAN,Random Search,Combined,"PersonStatusSex, AgeInYears",8,0.586,62.037054777145386
+GERMAN,Random Search,Combined,"PersonStatusSex, AgeInYears",9,0.543,62.67269015312195
+GERMAN,Random Search,Combined,"PersonStatusSex, AgeInYears",10,0.537,62.84062218666077
+GERMAN,Random Search,Combined,"PersonStatusSex, AgeInYears",11,0.555,63.42510986328125
+GERMAN,Random Search,Combined,"PersonStatusSex, AgeInYears",12,0.556,63.102582931518555
+GERMAN,Random Search,Combined,"PersonStatusSex, AgeInYears",13,0.53,63.44297385215759
+GERMAN,Random Search,Combined,"PersonStatusSex, AgeInYears",14,0.557,63.87507104873657
+GERMAN,Random Search,Combined,"PersonStatusSex, AgeInYears",15,0.562,63.461626052856445
+GERMAN,Random Search,Combined,"PersonStatusSex, AgeInYears",16,0.563,63.53392696380615
+GERMAN,Random Search,Combined,"PersonStatusSex, AgeInYears",17,0.558,63.55272722244263
+GERMAN,Random Search,Combined,"PersonStatusSex, AgeInYears",18,0.559,63.639663219451904
+GERMAN,Random Search,Combined,"PersonStatusSex, AgeInYears",19,0.568,67.20965790748596
+GERMAN,Random Search,Combined,"PersonStatusSex, AgeInYears",20,0.534,63.639764070510864
+GERMAN,Random Search,Combined,"PersonStatusSex, AgeInYears",21,0.535,64.13949775695801
+GERMAN,Random Search,Combined,"PersonStatusSex, AgeInYears",22,0.545,64.0900559425354
+GERMAN,Random Search,Combined,"PersonStatusSex, AgeInYears",23,0.544,64.0736722946167
+GERMAN,Random Search,Combined,"PersonStatusSex, AgeInYears",24,0.554,64.0746738910675
+GERMAN,Random Search,Combined,"PersonStatusSex, AgeInYears",25,0.566,63.63009285926819
+GERMAN,Random Search,Combined,"PersonStatusSex, AgeInYears",26,0.536,65.41628789901733
+GERMAN,Random Search,Combined,"PersonStatusSex, AgeInYears",27,0.564,65.26214671134949
+GERMAN,Random Search,Combined,"PersonStatusSex, AgeInYears",28,0.558,65.35305380821228
+GERMAN,Random Search,Combined,"PersonStatusSex, AgeInYears",29,0.552,65.48934507369995
+GERMAN,Random Search,Combined,"PersonStatusSex, AgeInYears",30,0.554,64.89508819580078
+GERMAN,GA+Local Search,Combined,"PersonStatusSex, AgeInYears",1,0.677,64.1066529750824
+GERMAN,GA+Local Search,Combined,"PersonStatusSex, AgeInYears",2,0.651,63.62897205352783
+GERMAN,GA+Local Search,Combined,"PersonStatusSex, AgeInYears",3,0.656,63.597622871398926
+GERMAN,GA+Local Search,Combined,"PersonStatusSex, AgeInYears",4,0.65,64.35749506950378
+GERMAN,GA+Local Search,Combined,"PersonStatusSex, AgeInYears",5,0.612,63.68892788887024
+GERMAN,GA+Local Search,Combined,"PersonStatusSex, AgeInYears",6,0.635,63.9805269241333
+GERMAN,GA+Local Search,Combined,"PersonStatusSex, AgeInYears",7,0.646,63.56575679779053
+GERMAN,GA+Local Search,Combined,"PersonStatusSex, AgeInYears",8,0.604,64.55664324760437
+GERMAN,GA+Local Search,Combined,"PersonStatusSex, AgeInYears",9,0.638,64.22450423240662
+GERMAN,GA+Local Search,Combined,"PersonStatusSex, AgeInYears",10,0.631,63.96445083618164
+GERMAN,GA+Local Search,Combined,"PersonStatusSex, AgeInYears",11,0.615,64.13258695602417
+GERMAN,GA+Local Search,Combined,"PersonStatusSex, AgeInYears",12,0.665,65.0185022354126
+GERMAN,GA+Local Search,Combined,"PersonStatusSex, AgeInYears",13,0.639,63.21298098564148
+GERMAN,GA+Local Search,Combined,"PersonStatusSex, AgeInYears",14,0.602,62.75853681564331
+GERMAN,GA+Local Search,Combined,"PersonStatusSex, AgeInYears",15,0.645,62.97073316574097
+GERMAN,GA+Local Search,Combined,"PersonStatusSex, AgeInYears",16,0.632,63.77539420127869
+GERMAN,GA+Local Search,Combined,"PersonStatusSex, AgeInYears",17,0.642,63.132197856903076
+GERMAN,GA+Local Search,Combined,"PersonStatusSex, AgeInYears",18,0.595,64.32736611366272
+GERMAN,GA+Local Search,Combined,"PersonStatusSex, AgeInYears",19,0.628,64.21956706047058
+GERMAN,GA+Local Search,Combined,"PersonStatusSex, AgeInYears",20,0.658,64.58540892601013
+GERMAN,GA+Local Search,Combined,"PersonStatusSex, AgeInYears",21,0.58,64.03179502487183
+GERMAN,GA+Local Search,Combined,"PersonStatusSex, AgeInYears",22,0.572,64.01943612098694
+GERMAN,GA+Local Search,Combined,"PersonStatusSex, AgeInYears",23,0.622,64.73005414009094
+GERMAN,GA+Local Search,Combined,"PersonStatusSex, AgeInYears",24,0.586,64.33851480484009
+GERMAN,GA+Local Search,Combined,"PersonStatusSex, AgeInYears",25,0.62,64.63966012001038
+GERMAN,GA+Local Search,Combined,"PersonStatusSex, AgeInYears",26,0.619,64.35153198242188
+GERMAN,GA+Local Search,Combined,"PersonStatusSex, AgeInYears",27,0.629,63.151230812072754
+GERMAN,GA+Local Search,Combined,"PersonStatusSex, AgeInYears",28,0.618,63.23617887496948
+GERMAN,GA+Local Search,Combined,"PersonStatusSex, AgeInYears",29,0.598,63.225172996520996
+GERMAN,GA+Local Search,Combined,"PersonStatusSex, AgeInYears",30,0.636,63.67537498474121
+GERMAN,Random Search,Single,PersonStatusSex,1,0.025,67.65711617469788
+GERMAN,Random Search,Single,PersonStatusSex,2,0.02,66.16203594207764
+GERMAN,Random Search,Single,PersonStatusSex,3,0.037,65.1696240901947
+GERMAN,Random Search,Single,PersonStatusSex,4,0.029,66.07497310638428
+GERMAN,Random Search,Single,PersonStatusSex,5,0.018,66.85221910476685
+GERMAN,Random Search,Single,PersonStatusSex,6,0.024,66.27258324623108
+GERMAN,Random Search,Single,PersonStatusSex,7,0.017,66.35328102111816
+GERMAN,Random Search,Single,PersonStatusSex,8,0.028,65.97619009017944
+GERMAN,Random Search,Single,PersonStatusSex,9,0.034,65.93482494354248
+GERMAN,Random Search,Single,PersonStatusSex,10,0.025,66.42432999610901
+GERMAN,Random Search,Single,PersonStatusSex,11,0.024,66.41716480255127
+GERMAN,Random Search,Single,PersonStatusSex,12,0.025,66.3553900718689
+GERMAN,Random Search,Single,PersonStatusSex,13,0.024,65.94362020492554
+GERMAN,Random Search,Single,PersonStatusSex,14,0.031,66.36201286315918
+GERMAN,Random Search,Single,PersonStatusSex,15,0.02,65.64144897460938
+GERMAN,Random Search,Single,PersonStatusSex,16,0.025,65.6937370300293
+GERMAN,Random Search,Single,PersonStatusSex,17,0.038,66.13512301445007
+GERMAN,Random Search,Single,PersonStatusSex,18,0.031,65.63462495803833
+GERMAN,Random Search,Single,PersonStatusSex,19,0.028,65.8390781879425
+GERMAN,Random Search,Single,PersonStatusSex,20,0.03,66.08743286132812
+GERMAN,Random Search,Single,PersonStatusSex,21,0.022,66.11231517791748
+GERMAN,Random Search,Single,PersonStatusSex,22,0.025,66.02044701576233
+GERMAN,Random Search,Single,PersonStatusSex,23,0.027,66.10747122764587
+GERMAN,Random Search,Single,PersonStatusSex,24,0.034,65.64618992805481
+GERMAN,Random Search,Single,PersonStatusSex,25,0.031,65.95491695404053
+GERMAN,Random Search,Single,PersonStatusSex,26,0.024,65.86900615692139
+GERMAN,Random Search,Single,PersonStatusSex,27,0.029,65.60713005065918
+GERMAN,Random Search,Single,PersonStatusSex,28,0.034,65.98252582550049
+GERMAN,Random Search,Single,PersonStatusSex,29,0.032,65.62917017936707
+GERMAN,Random Search,Single,PersonStatusSex,30,0.025,66.21121191978455
+GERMAN,GA+Local Search,Single,PersonStatusSex,1,0.137,64.74074625968933
+GERMAN,GA+Local Search,Single,PersonStatusSex,2,0.127,64.31596302986145
+GERMAN,GA+Local Search,Single,PersonStatusSex,3,0.11,64.4991180896759
+GERMAN,GA+Local Search,Single,PersonStatusSex,4,0.131,64.8419189453125
+GERMAN,GA+Local Search,Single,PersonStatusSex,5,0.117,65.17852020263672
+GERMAN,GA+Local Search,Single,PersonStatusSex,6,0.094,64.08730983734131
+GERMAN,GA+Local Search,Single,PersonStatusSex,7,0.111,64.87045669555664
+GERMAN,GA+Local Search,Single,PersonStatusSex,8,0.129,65.50938129425049
+GERMAN,GA+Local Search,Single,PersonStatusSex,9,0.139,66.21148681640625
+GERMAN,GA+Local Search,Single,PersonStatusSex,10,0.13,67.39169788360596
+GERMAN,GA+Local Search,Single,PersonStatusSex,11,0.143,64.55465078353882
+GERMAN,GA+Local Search,Single,PersonStatusSex,12,0.132,64.54647779464722
+GERMAN,GA+Local Search,Single,PersonStatusSex,13,0.123,65.43025827407837
+GERMAN,GA+Local Search,Single,PersonStatusSex,14,0.131,64.73650884628296
+GERMAN,GA+Local Search,Single,PersonStatusSex,15,0.093,64.51858186721802
+GERMAN,GA+Local Search,Single,PersonStatusSex,16,0.126,65.02293992042542
+GERMAN,GA+Local Search,Single,PersonStatusSex,17,0.136,64.90818095207214
+GERMAN,GA+Local Search,Single,PersonStatusSex,18,0.151,65.41893100738525
+GERMAN,GA+Local Search,Single,PersonStatusSex,19,0.121,64.98051977157593
+GERMAN,GA+Local Search,Single,PersonStatusSex,20,0.117,64.26652693748474
+GERMAN,GA+Local Search,Single,PersonStatusSex,21,0.142,63.790990114212036
+GERMAN,GA+Local Search,Single,PersonStatusSex,22,0.112,64.01453280448914
+GERMAN,GA+Local Search,Single,PersonStatusSex,23,0.089,63.8307569026947
+GERMAN,GA+Local Search,Single,PersonStatusSex,24,0.145,64.05139303207397
+GERMAN,GA+Local Search,Single,PersonStatusSex,25,0.101,63.62288570404053
+GERMAN,GA+Local Search,Single,PersonStatusSex,26,0.105,63.70496082305908
+GERMAN,GA+Local Search,Single,PersonStatusSex,27,0.118,63.80354309082031
+GERMAN,GA+Local Search,Single,PersonStatusSex,28,0.129,63.174176931381226
+GERMAN,GA+Local Search,Single,PersonStatusSex,29,0.127,63.71785807609558
+GERMAN,GA+Local Search,Single,PersonStatusSex,30,0.101,63.72243285179138
+GERMAN,Random Search,Single,AgeInYears,1,0.56,64.64935994148254
+GERMAN,Random Search,Single,AgeInYears,2,0.549,64.81660413742065
+GERMAN,Random Search,Single,AgeInYears,3,0.533,65.3227128982544
+GERMAN,Random Search,Single,AgeInYears,4,0.57,66.03798413276672
+GERMAN,Random Search,Single,AgeInYears,5,0.571,69.31821489334106
+GERMAN,Random Search,Single,AgeInYears,6,0.534,66.02617383003235
+GERMAN,Random Search,Single,AgeInYears,7,0.54,66.04069209098816
+GERMAN,Random Search,Single,AgeInYears,8,0.519,65.25689005851746
+GERMAN,Random Search,Single,AgeInYears,9,0.54,65.86207914352417
+GERMAN,Random Search,Single,AgeInYears,10,0.559,65.7065658569336
+GERMAN,Random Search,Single,AgeInYears,11,0.555,65.39516806602478
+GERMAN,Random Search,Single,AgeInYears,12,0.557,66.19025993347168
+GERMAN,Random Search,Single,AgeInYears,13,0.527,65.10581612586975
+GERMAN,Random Search,Single,AgeInYears,14,0.517,64.9695942401886
+GERMAN,Random Search,Single,AgeInYears,15,0.56,65.03137111663818
+GERMAN,Random Search,Single,AgeInYears,16,0.529,65.12027621269226
+GERMAN,Random Search,Single,AgeInYears,17,0.568,64.95717883110046
+GERMAN,Random Search,Single,AgeInYears,18,0.567,64.78598690032959
+GERMAN,Random Search,Single,AgeInYears,19,0.54,64.8104681968689
+GERMAN,Random Search,Single,AgeInYears,20,0.549,64.87502002716064
+GERMAN,Random Search,Single,AgeInYears,21,0.542,64.99036002159119
+GERMAN,Random Search,Single,AgeInYears,22,0.547,65.01862502098083
+GERMAN,Random Search,Single,AgeInYears,23,0.542,65.45422601699829
+GERMAN,Random Search,Single,AgeInYears,24,0.516,64.58890914916992
+GERMAN,Random Search,Single,AgeInYears,25,0.582,65.01570725440979
+GERMAN,Random Search,Single,AgeInYears,26,0.562,64.74728894233704
+GERMAN,Random Search,Single,AgeInYears,27,0.54,65.61852383613586
+GERMAN,Random Search,Single,AgeInYears,28,0.556,64.55744290351868
+GERMAN,Random Search,Single,AgeInYears,29,0.548,64.83964490890503
+GERMAN,Random Search,Single,AgeInYears,30,0.56,65.11883902549744
+GERMAN,GA+Local Search,Single,AgeInYears,1,0.624,63.210686922073364
+GERMAN,GA+Local Search,Single,AgeInYears,2,0.608,63.77423691749573
+GERMAN,GA+Local Search,Single,AgeInYears,3,0.641,63.81579113006592
+GERMAN,GA+Local Search,Single,AgeInYears,4,0.642,63.57464599609375
+GERMAN,GA+Local Search,Single,AgeInYears,5,0.668,63.48264694213867
+GERMAN,GA+Local Search,Single,AgeInYears,6,0.62,63.05262017250061
+GERMAN,GA+Local Search,Single,AgeInYears,7,0.633,63.34211206436157
+GERMAN,GA+Local Search,Single,AgeInYears,8,0.624,63.00383281707764
+GERMAN,GA+Local Search,Single,AgeInYears,9,0.608,63.398436069488525
+GERMAN,GA+Local Search,Single,AgeInYears,10,0.606,63.23840594291687
+GERMAN,GA+Local Search,Single,AgeInYears,11,0.642,63.627370834350586
+GERMAN,GA+Local Search,Single,AgeInYears,12,0.625,63.19534397125244
+GERMAN,GA+Local Search,Single,AgeInYears,13,0.623,63.23958110809326
+GERMAN,GA+Local Search,Single,AgeInYears,14,0.68,63.72120189666748
+GERMAN,GA+Local Search,Single,AgeInYears,15,0.613,63.20406198501587
+GERMAN,GA+Local Search,Single,AgeInYears,16,0.619,63.829988956451416
+GERMAN,GA+Local Search,Single,AgeInYears,17,0.655,63.234742879867554
+GERMAN,GA+Local Search,Single,AgeInYears,18,0.657,63.36278295516968
+GERMAN,GA+Local Search,Single,AgeInYears,19,0.614,63.47911810874939
+GERMAN,GA+Local Search,Single,AgeInYears,20,0.628,63.87253522872925
+GERMAN,GA+Local Search,Single,AgeInYears,21,0.617,63.45620918273926
+GERMAN,GA+Local Search,Single,AgeInYears,22,0.609,63.8271689414978
+GERMAN,GA+Local Search,Single,AgeInYears,23,0.63,63.298458099365234
+GERMAN,GA+Local Search,Single,AgeInYears,24,0.648,63.31398916244507
+GERMAN,GA+Local Search,Single,AgeInYears,25,0.608,63.46468234062195
+GERMAN,GA+Local Search,Single,AgeInYears,26,0.649,63.55364108085632
+GERMAN,GA+Local Search,Single,AgeInYears,27,0.642,63.69354200363159
+GERMAN,GA+Local Search,Single,AgeInYears,28,0.602,63.91998291015625
+GERMAN,GA+Local Search,Single,AgeInYears,29,0.656,62.14510369300842
+GERMAN,GA+Local Search,Single,AgeInYears,30,0.621,53.27285671234131
