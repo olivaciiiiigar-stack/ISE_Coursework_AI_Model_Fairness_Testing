@@ -41,14 +41,6 @@ Each scenario is repeated **30 times** for statistical robustness. The experimen
 
 **Expected runtime**: approximately 2–3 hours on a standard laptop (depends on CPU cores).
 
-## Running a Quick Test
-
-```bash
-uv run ./quick_test.py
-```
-
-This runs only 2 datasets (ADULT, GERMAN) with 3 runs each, completing in ~10 minutes. Useful for verifying the setup.
-
 ## Output Files
 
 After the full experiment completes, three CSV files are generated in the project root:

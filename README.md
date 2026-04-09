@@ -17,8 +17,6 @@ This project addresses **individual fairness testing** of pre-trained DNN models
 ├── improved_experiment_results.csv # Summary results (average IDI ratio & time, 30 runs)
 ├── improved_experiment_raw.csv     # Raw per-run data (30 runs × all scenarios)
 ├── statistical_test_results.csv    # Wilcoxon signed-rank test results
-├── quick_test.py                   # Quick validation script (2 datasets, 3 runs)
-├── main.py                        # Entry point placeholder
 ├── requirements.txt               # Dependency description
 ├── pyproject.toml                 # uv project config with pinned dependencies
 ├── requirements.pdf               # Dependencies and versions
@@ -52,9 +50,6 @@ uv sync
 
 # 2. Run the full experiment (30 runs × 8 datasets, ~2-3 hours)
 uv run ./improved_experiment.py
-
-# 3. Or run a quick test (3 runs × 2 datasets, ~10 min)
-uv run ./quick_test.py
 ```
 
 ## Output Files

@@ -47,7 +47,6 @@ uv run ./improved_experiment.py
 ### Expected runtime
 
 - **Full experiment**: approximately 2–3 hours (varies by CPU).
-- **Quick test** (`uv run ./quick_test.py`): approximately 10 minutes (2 datasets, 3 runs).
 
 ### Output files
 
