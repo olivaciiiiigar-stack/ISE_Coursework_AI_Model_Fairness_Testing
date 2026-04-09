@@ -17,16 +17,16 @@ This project addresses **individual fairness testing** of pre-trained DNN models
 ├── improved_experiment_results.csv # Summary results (average IDI ratio & time, 30 runs)
 ├── improved_experiment_raw.csv     # Raw per-run data (30 runs × all scenarios)
 ├── statistical_test_results.csv    # Wilcoxon signed-rank test results
-├── requirements.txt               # Dependency description
+├── report.pdf                     # Coursework report
 ├── pyproject.toml                 # uv project config with pinned dependencies
-├── requirements.pdf               # Dependencies and versions
-├── manual.pdf                     # How to use the tool
-├── replication.pdf                # How to replicate the reported results
+├── requirements.pdf               # Any dependencies/versions that are required to compile or run the code
+├── manual.pdf                     # A manual to explain how to use the tool
+├── replication.pdf                # A clear instruction as to how we can replicate the results reported
 ├── ise-lab-solution/lab4/
-│   ├── dataset/                   # 8 pre-processed datasets (.csv)
-│   ├── DNN/                       # 8 pre-trained DNN models (.h5)
-│   └── lab4_solution.py           # Original baseline solution
-└── ISE/lab4/                      # Lab description and raw datasets
+│   ├── dataset/                   
+│   ├── DNN/                       
+│   └── lab4_solution.py           
+└── ISE/lab4/                      
 ```
 
 ## Datasets
@@ -45,6 +45,10 @@ This project addresses **individual fairness testing** of pre-trained DNN models
 ## Quick Start
 
 ```bash
+# 0. Clone with submodules (important!)
+git clone --recursive https://github.com/olivaciiiiigar-stack/ISE_Coursework_AI_Model_Fairness_Testing.git
+cd ISE_Coursework_AI_Model_Fairness_Testing
+
 # 1. Install dependencies
 uv sync
 

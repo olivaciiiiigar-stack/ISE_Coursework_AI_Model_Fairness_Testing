@@ -1,0 +1,6 @@
+[submodule "ISE"]
+	path = ISE
+	url = https://github.com/ideas-labo/ISE.git
+[submodule "ise-lab-solution"]
+	path = ise-lab-solution
+	url = https://github.com/ideas-labo/ise-lab-solution.git
